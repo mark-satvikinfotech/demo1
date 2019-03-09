@@ -1,0 +1,25 @@
+
+
+****************** Invoice Cron Start*******
+Date: 2019-01-17 12:30:28
+Total Invoice: 63
+Last updated Invoice: 0
+Invoice item not found:676044
+Invoice ID: 640919
+Contact Id: 35110
+Order Id : 10788 
+
+Invoice ID: 588159
+Contact Id: 36988
+Order Id : 10790 
+
+Invoice ID: 580968
+Contact Id: 37296
+Order Id : 10792 
+
+Invoice ID: 573106
+Contact Id: 34049
+Order Id : 10794 
+
+****************Invoice Cron end********************* 
+

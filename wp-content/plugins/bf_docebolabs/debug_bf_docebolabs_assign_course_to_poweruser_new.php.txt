@@ -1,0 +1,185 @@
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 241 to power user id 20939
+From Infusionsoft: 14-02-2019 06:02:25 - Array
+(
+    [DoceboIdEmail] => 123incometaxdcs1@gmail.com
+    [CourseCode] => 2018 2h bu in-b
+)
+
+data to docebo api check email: 14-02-2019 18:32:25 - Array
+(
+    [userid] => 123incometaxdcs1@gmail.com
+    [also_check_as_email] => 1
+)
+
+docebo api check email result: 14-02-2019 18:32:32 - Array
+(
+    [idst] => 20939
+    [firstname] => Isabel
+    [lastname] => Guzman
+    [email] => 123incometaxdcs1@gmail.com
+    [success] => 1
+)
+
+Assign course result:Array
+(
+    [success] => 1
+)
+docebo api attempted assigning course id 241 to power user id 20939
+From Infusionsoft: 14-02-2019 23:30:53 - Array
+(
+    [DoceboIdEmail] => 13mlara@gmail.com
+    [CourseCode] => Los Taxes2 - 1
+)
+
+data to docebo api check email: 15-02-2019 12:00:54 - Array
+(
+    [userid] => 13mlara@gmail.com
+    [also_check_as_email] => 1
+)
+
+docebo api check email result: 15-02-2019 12:00:58 - Array
+(
+    [idst] => 18504
+    [firstname] => Miguel
+    [lastname] => Lara
+    [email] => 13mlara@gmail.com
+    [success] => 1
+)
+
+From Infusionsoft: 14-02-2019 23:30:58 - Array
+(
+    [DoceboIdEmail] => 13mlara@gmail.com
+    [CourseCode] => Los Taxes2 - 1
+)
+
+data to docebo api check email: 15-02-2019 12:00:59 - Array
+(
+    [userid] => 13mlara@gmail.com
+    [also_check_as_email] => 1
+)
+
+docebo api check email result: 15-02-2019 12:00:59 - Array
+(
+    [idst] => 18504
+    [firstname] => Miguel
+    [lastname] => Lara
+    [email] => 13mlara@gmail.com
+    [success] => 1
+)
+
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 256 to power user id 18504
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 256 to power user id 18504
+From Infusionsoft: 14-02-2019 23:58:25 - Array
+(
+    [DoceboIdEmail] => 13mlara@gmail.com
+    [CourseCode] => 00000
+)
+
+data to docebo api check email: 15-02-2019 12:28:25 - Array
+(
+    [userid] => 13mlara@gmail.com
+    [also_check_as_email] => 1
+)
+
+docebo api check email result: 15-02-2019 12:28:27 - Array
+(
+    [idst] => 18504
+    [firstname] => Miguel
+    [lastname] => Lara
+    [email] => 13mlara@gmail.com
+    [success] => 1
+)
+
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 353 to power user id 18504
+From Infusionsoft: 15-02-2019 02:15:52 - Array
+(
+    [DoceboIdEmail] => abg.antoniosanchez@hotmail.com
+    [CourseCode] => 00000
+)
+
+data to docebo api check email: 15-02-2019 14:45:52 - Array
+(
+    [userid] => abg.antoniosanchez@hotmail.com
+    [also_check_as_email] => 1
+)
+
+docebo api check email result: 15-02-2019 14:45:54 - Array
+(
+    [idst] => 19263
+    [firstname] => Antonio
+    [lastname] => Sanchez
+    [email] => abg.antoniosanchez@hotmail.com
+    [success] => 1
+)
+
+From Infusionsoft: 15-02-2019 02:15:58 - Array
+(
+    [DoceboIdEmail] => abg.antoniosanchez@hotmail.com
+    [CourseCode] => 00000
+)
+
+data to docebo api check email: 15-02-2019 14:45:58 - Array
+(
+    [userid] => abg.antoniosanchez@hotmail.com
+    [also_check_as_email] => 1
+)
+
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 353 to power user id 19263
+docebo api check email result: 15-02-2019 14:45:59 - Array
+(
+    [idst] => 19263
+    [firstname] => Antonio
+    [lastname] => Sanchez
+    [email] => abg.antoniosanchez@hotmail.com
+    [success] => 1
+)
+
+Assign course result:Array
+(
+    [errors] => Array
+        (
+        )
+
+    [success] => 1
+)
+docebo api attempted assigning course id 353 to power user id 19263

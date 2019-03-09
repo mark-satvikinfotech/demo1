@@ -1,0 +1,953 @@
+[22-Feb-2019 06:47:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:47:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:47:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:47:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:47:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:47:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 06:49:23 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:49:23 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:49:23 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:49:23 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:49:23 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:49:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 06:49:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:49:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:49:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:49:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:49:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:49:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 06:49:32 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:49:32 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:49:32 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:49:32 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:49:32 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:49:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 06:51:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:51:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:51:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:51:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:51:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:51:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 06:59:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 06:59:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 06:59:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 06:59:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 06:59:51 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 06:59:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 07:01:15 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:01:15 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:01:15 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:01:15 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:01:15 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:01:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 176
+[22-Feb-2019 07:05:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/config.php:2
+Stack trace:
+#0 /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/IS-orderform.php(14): include()
+#1 {main}
+  thrown in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/config.php on line 2
+[22-Feb-2019 07:06:37 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:06:37 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:06:37 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:06:37 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:06:37 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:06:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:10:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:10:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:10:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:10:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:10:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:10:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:11:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:11:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:11:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:11:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:11:27 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:11:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:11:31 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:11:31 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:11:31 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:11:31 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:11:31 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:11:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:11:41 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:11:41 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:11:41 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:11:41 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:11:41 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:11:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:13:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:13:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:13:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:13:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:13:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:13:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 174
+[22-Feb-2019 07:14:08 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:14:08 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:14:08 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:14:08 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:14:08 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:14:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:14:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:14:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:14:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:14:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:14:12 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:14:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:14:30 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:14:30 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:14:30 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:14:30 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:14:30 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:14:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:6) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:14:54 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:14:54 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:14:54 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:14:54 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:14:54 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:14:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:6) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:14:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:14:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:14:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:14:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:14:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:15:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:6) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:16:35 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:16:35 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:16:35 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:16:35 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:16:35 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:16:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:5) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:22:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:22:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:22:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:22:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:22:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:22:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:5) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:33:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:33:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:33:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:33:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:33:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:33:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:5) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:35:11 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:35:11 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:35:11 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:35:11 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:35:11 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:35:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:5) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:36:03 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:36:03 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:36:03 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:36:03 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:36:03 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:36:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php:5) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:38:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:38:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:38:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:38:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:38:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:38:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 175
+[22-Feb-2019 07:40:25 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:40:25 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:40:25 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:40:25 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:40:25 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:40:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:40:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:41:16 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:41:16 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:41:16 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:41:16 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:41:16 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:41:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:41:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:49:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:49:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:49:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:49:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:49:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:49:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:49:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:49:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:49:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:49:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:49:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:49:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:49:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:49:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:54:55 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:54:55 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:54:55 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:54:55 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:54:55 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:54:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:54:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:58:49 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:58:49 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:58:49 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:58:49 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:58:49 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:58:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 5
+[22-Feb-2019 07:58:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 177
+[22-Feb-2019 07:59:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[22-Feb-2019 07:59:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[22-Feb-2019 07:59:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[22-Feb-2019 07:59:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[22-Feb-2019 07:59:59 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[22-Feb-2019 07:59:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[22-Feb-2019 08:00:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 173
+[25-Feb-2019 01:10:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:10:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:10:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:10:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:10:34 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:10:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:10:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:11:06 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:11:06 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:11:06 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:11:06 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:11:06 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:11:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:11:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:12:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:12:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:12:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:12:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:12:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:12:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:12:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:23:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 1249
+[25-Feb-2019 01:24:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:24:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:24:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:24:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:24:47 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:24:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:24:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:24:53 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:24:53 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:24:53 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:24:53 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:24:53 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:24:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:24:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:24:58 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:24:58 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:24:58 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:24:58 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:24:58 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:24:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:24:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:25:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:25:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:25:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:25:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:25:05 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:25:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:25:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:25:07 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:25:07 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:25:07 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:25:07 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:25:07 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:25:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:25:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 01:25:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php on line 16
+[25-Feb-2019 01:25:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 805
+[25-Feb-2019 01:25:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 1931
+[25-Feb-2019 01:25:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2089
+[25-Feb-2019 01:25:10 America/Chicago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc on line 2714
+[25-Feb-2019 01:25:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 4
+[25-Feb-2019 01:25:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/lib/isdk.php:16) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 45
+[25-Feb-2019 00:29:45 America/Denver] PHP Notice:  Undefined variable: conID in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 38
+[25-Feb-2019 00:29:52 America/Denver] PHP Notice:  Undefined variable: conID in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay1.php on line 38
+[25-Feb-2019 03:50:37 America/Denver] PHP Notice:  Undefined index: transId in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 2
+[06-Mar-2019 05:48:17 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:48:17 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:48:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 05:48:17 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:48:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 05:50:39 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:50:39 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:50:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 05:50:39 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:50:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 05:55:59 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:55:59 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:55:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 05:55:59 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 05:55:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:01:26 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:01:26 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:01:26 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:01:26 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:01:26 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:03:59 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:03:59 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:03:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:03:59 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:03:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:09:33 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:33 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:09:33 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:09:37 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:37 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:37 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:09:37 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:37 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:09:51 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:51 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:09:51 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:09:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:17:40 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:40 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:17:40 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:17:44 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:44 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:44 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:17:44 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:44 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:17:47 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:47 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:17:47 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:17:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:19:16 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:16 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:19:16 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:19:23 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:23 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:19:23 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:19:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:26:56 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:26:56 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:26:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:26:56 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:26:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:27:07 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:27:07 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:27:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:27:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:27:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:30:07 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:07 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:30:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:30:49 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:49 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:30:49 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:30:57 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:57 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:30:57 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:30:59 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:59 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:30:59 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:30:59 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:31:05 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:05 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:31:05 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:31:09 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:09 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:31:09 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:31:21 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:21 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:31:21 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:31:24 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:24 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:31:24 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:24 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:31:27 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:27 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:27 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:31:27 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:31:27 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:34:58 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:34:58 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:34:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:34:58 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:34:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:35:50 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:50 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:35:50 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:35:52 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:52 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:35:52 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:35:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:37:21 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:37:21 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:37:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:37:21 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:37:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:40:21 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:40:21 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:40:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:40:21 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:40:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:40:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:10) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 48
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:47:13 America/Chicago] PHP Warning:  require(../wp-load.php): failed to open stream: No such file or directory in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 4
+[06-Mar-2019 06:47:13 America/Chicago] PHP Fatal error:  require(): Failed opening required '../wp-load.php' (include_path='.:/opt/php70/lib/php') in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 4
+[06-Mar-2019 06:52:20 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:52:20 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:52:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:52:20 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:52:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 06:54:58 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:54:58 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:54:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 06:54:58 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 06:54:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 12:54:59 Europe/London] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:9) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 14
+[06-Mar-2019 12:54:59 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:9) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 14
+[06-Mar-2019 12:54:59 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:9) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 55
+[06-Mar-2019 07:23:47 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:47 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:23:47 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 07:23:54 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:54 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:23:54 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:23:54 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 13:23:55 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:19) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 56
+[06-Mar-2019 07:26:20 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:20 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:26:20 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 07:26:22 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:22 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:26:22 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:26:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 13:26:23 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php:37) in /home2/satvikso/public_html/project/wp-testing/wp-content/plugins/IS-orderform/worldpay.php on line 57
+[06-Mar-2019 07:29:07 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:29:07 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:29:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:29:07 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:29:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 07:31:21 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:21 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:31:21 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:21 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 07:31:23 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:23 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:31:23 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:31:23 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[06-Mar-2019 07:39:27 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:39:27 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:39:27 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/imagick.so: undefined symbol: zend_ce_exception in Unknown on line 0
+[06-Mar-2019 07:39:27 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Mar-2019 07:39:27 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0

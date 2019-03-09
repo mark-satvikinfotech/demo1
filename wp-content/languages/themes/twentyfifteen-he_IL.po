@@ -1,0 +1,298 @@
+# Translation of Themes - Twenty Fifteen in Hebrew
+# This file is distributed under the same license as the Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-01 14:17:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Themes - Twenty Fifteen\n"
+
+#. Description of the plugin/theme
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr "תבנית ברירת המחדל לשנת 2015 היא תבנית נקייה, ממוקדת בבלוגים, ומיועד לבהירות. לערכה טיפוגרפיה פשוטה, מותאמת למגוון רחב של גדלי מסך, ותומכת במספר רב של שפות. היא עוצבה בגישת mobile-first, כלומר התוכן נמצא במרכז הבמה, בין אם המבקרים משתמשים בטלפון חכם, מחשב לוח, מחשב נייד, או מחשב שולחני."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Fifteen"
+msgstr "Twenty Fifteen"
+
+#. translators: %s: post title
+#: inc/template-tags.php:130
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "השאירו תגובה<span class=\"screen-reader-text\"> עבור %s</span>"
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "הפוסט הקודם:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "קודם"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "הפוסט הבא:"
+
+#: single.php:35
+msgid "Next"
+msgstr "לשלב הבא"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש: %s"
+
+#: inc/template-tags.php:120
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "מסך מלא"
+
+#: inc/template-tags.php:108
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "תגיות"
+
+#: inc/template-tags.php:99
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: inc/template-tags.php:95 inc/template-tags.php:104
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:89
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "מחבר"
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "פורסם בתאריך"
+
+#: inc/template-tags.php:56
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "פורמט"
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr "פוסט נבחר"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: inc/customizer.php:226
+msgid "Blue"
+msgstr "כחול"
+
+#: inc/customizer.php:215
+msgid "Purple"
+msgstr "סגול"
+
+#: inc/customizer.php:204
+msgid "Pink"
+msgstr "ורוד"
+
+#: inc/customizer.php:193
+msgid "Yellow"
+msgstr "צהוב"
+
+#: inc/customizer.php:182
+msgid "Dark"
+msgstr "צבעים כהים"
+
+#: inc/customizer.php:171
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/customizer.php:93
+msgid "Header and Sidebar Background Color"
+msgstr "צבע רקע של התפריט העליון והתפריט הצדדי"
+
+#: inc/customizer.php:72 inc/customizer.php:94 inc/customizer.php:101
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "חל על התפריט העליונה במסכים קטנים, והתפריט הצדדי במסכים רחבים."
+
+#: inc/customizer.php:71
+msgid "Header and Sidebar Text Color"
+msgstr "צבע טקסט של התפריט העליון והתפריט הצדדי"
+
+#: inc/customizer.php:51
+msgid "Base Color Scheme"
+msgstr "צבע בסיס"
+
+#: inc/back-compat.php:37 inc/back-compat.php:48 inc/back-compat.php:62
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "דרישת המינימום להפעלת התבנית Twenty Thirteen היא וורדפרס בגרסה 4.1. האתר מפעיל וורדפרס בגרסה %s. יש לשדרג את גרסת וורדפרס ולנסות שנית."
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">פורסם ב</span><span class=\"post-title\">%title</span>"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "תמונה הבאה"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "תמונה קודמת"
+
+#: header.php:49
+msgid "Menu and widgets"
+msgstr "תפריטים ווידג'טים"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "לדלג לתוכן"
+
+#: functions.php:312
+msgid "collapse child menu"
+msgstr "הסתר תפריט"
+
+#: functions.php:311
+msgid "expand child menu"
+msgstr "הצג תפריט"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:238
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:230
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:214
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:187
+msgid "Add widgets here to appear in your sidebar."
+msgstr "הוסיפו ווידג'טים שיוצגו בסרגל הצדדי."
+
+#: functions.php:185
+msgid "Widget Area"
+msgstr "אזור ווידג'טים"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "תפריט קישורים חברתיים"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:31
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 2.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://he.wordpress.org/"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה שלא הצלחנו למצוא את מה שחיפשת. ייתכן שביצוע חיפוש יסייע."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לביטוי החיפוש, ניתן לנסות שוב עם ביטויים אחרים."
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "לא נמצא"
+
+#: content-link.php:60 content-page.php:37 content-search.php:28
+#: content-search.php:33 content.php:61 image.php:74
+msgid "Edit"
+msgstr "עריכה"
+
+#: content-link.php:39 content-page.php:26 content.php:41 image.php:61
+msgid "Pages:"
+msgstr ":עמודים"
+
+#. translators: %s: Name of current post
+#: content-link.php:32 content.php:34 inc/template-tags.php:249
+msgid "Continue reading %s"
+msgstr "להמשיך לקרוא %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "כל הפוסטים מאת %s&rlm;"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "מאת"
+
+#: archive.php:53 content-link.php:43 content-page.php:30 content.php:45
+#: image.php:65 index.php:50 search.php:43
+msgid "Page"
+msgstr "עמוד"
+
+#: archive.php:52 index.php:49 search.php:42
+msgid "Next page"
+msgstr "העמוד הבא"
+
+#: archive.php:51 index.php:48 search.php:41
+msgid "Previous page"
+msgstr "העמוד הקודם"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה שלא נמצא כלום במיקום הזה. אולי תנסו לחפש?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "העמוד המבוקש לא נמצא."
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "צוות וורדפרס"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfifteen/"
+msgstr "https://he.wordpress.org/themes/twentyfifteen/"

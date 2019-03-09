@@ -1,0 +1,112 @@
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [key] => user:2780028928689639
+    [name] => Hiren Patel
+    [custom_fields] => Array
+        (
+            [Email] => lisha.hikebranding@gmail.com
+        )
+
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [key] => user:2780028928689639
+    [name] => Hiren Patel
+    [custom_fields] => Array
+        (
+            [Email] => lisha.hikebranding@gmail.com
+        )
+
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [key] => user:2780028928689639
+    [name] => Hiren Patel
+    [custom_fields] => Array
+        (
+            [Email] => lisha.hikebranding@gmail.com
+        )
+
+    [campian_id] => 95
+)
+
+
+====================
+Array
+(
+    [key] => user:2780028928689639
+    [name] => Hiren Patel
+    [custom_fields] => Array
+        (
+            [Email] => lisha.hikebranding@gmail.com
+        )
+
+    [campian_id] => 16
+)

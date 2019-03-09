@@ -1,0 +1,107 @@
+/* Infusionslabs Styling */
+.isbox {
+	padding: 4px; border: 1px solid #cccccc; border-radius: 3px; background-color: #fff; -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); line-height: 18px; max-width: 100%;
+}
+.isview {
+	width: 80%;
+	margin: 0px auto;
+	padding: 0px 10px 10px 10px;
+	border: 1px solid #d3d3d3;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+.istext {
+	margin-bottom: 0px;
+}
+.note {
+	width: 80%;
+	margin: 13px auto;
+}
+.descriptive {
+	margin-left: 20px;
+}
+.bf_docebolabs_container {
+	margin-top: 20px;
+	padding: .7em 2em 2em;
+	max-width: 100%;
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	background: #fff;
+}
+.biglink {
+	font-weight: bold;
+	font-size: 110%;
+}
+.menulist li {
+	margin-bottom: 14px;
+	text-indent: -20px;
+	margin-left: 20px;
+}
+.toplevel_page_bf_docebolabs-home img {
+	padding: 0px!important;
+}
+.datagrid table { border-collapse: collapse; text-align: left; width: 100%; } .datagrid {font: normal 13px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 1px solid #346B21; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }.datagrid table td, .datagrid table th { padding: 3px 10px; }.datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #346B21), color-stop(1, #346B21) );background:-moz-linear-gradient( center top, #346B21 5%, #346B21 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#346B21", endColorstr="#346B21");background-color:#346B21; color:#fff; font-size: 15px; font-weight: bold; border-left: 1px solid #B3E46E; } .datagrid table thead th:first-child { border: none; }.datagrid table tbody td { color: #444444; border-left: 1px solid #B3E46E;font-size: 12px;font-weight: normal; }.datagrid table tbody .alt td { background: #F3FBE8; color: #444444; }.datagrid table tbody td:first-child { border-left: none; }.datagrid table tbody tr:last-child td { border-bottom: none; }
+
+ /* ========== ADMIN FUNCTION LIST ========== */
+
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container h3 {color: #89BD54;font-family: "Roboto Condensed", sans-serif;text-transform: uppercase;text-align: center;font-size: 3rem;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container p {text-align: center;font-size: 1.3rem;font-family:  "Roboto", sans-serif;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .connection-status {background-color: #363A3E;min-height: 24px;padding: 10px;vertical-align: middle;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .connection-status h3, body[class*="toplevel_page_bf_docebolabs"] .bf_is_container .connection-status p {font-size: 1rem;display: inline-block;margin: 0;padding: 0 10px;/* line-height: 3; *//* vertical-align: middle; */border: 0;outline: none;box-sizing: content-box;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .connection-status h3 {color: #fff;font-size: 1rem;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .connection-status p {font-size: 1rem;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .function-count {font-weight: bold;color: #88aa5a;font-size: 1.4rem;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container {/*border: 1px solid blue;*/}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist {/*border: 1px solid darkorange;*/display: flex;flex-wrap: wrap;max-width: 1600px;height: 100%;min-height: 100%;margin: 0 auto;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist::after {display: block;content: "";clear: both;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li {/*border: 1px solid #ccc;*/padding: 15px;max-width: 20%;flex: 0 0 20%;display: block;min-height: 100px;background-color: #363A3E;color: #fff;text-align: center;position: relative;margin: 10px;text-indent: 0;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li a.biglink {text-align: center!important;padding: 1em;margin-bottom: 10px;display: block;color: #a8d370;text-transform: uppercase;font-weight: 500;text-decoration: none;font-family: "Roboto", sans-serif;font-size: 1.2rem;line-height: 1.5;padding: 0;position: absolute;left: 0;right: 0;width: 100%;height: 100%;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li p {font-size: 14px;line-height: 1.5;padding-top: 80px;}
+
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li, body[class*="toplevel_page_bf_docebolabs"] .bf_is_container .menulist li:hover, body[class*="toplevel_page_bf_docebolabs"] .bf_is_container .menulist li:focus {transition: all 300ms ease-in-out;}
+body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li:hover, body[class*="toplevel_page_bf_docebolabs"] .bf_docebolabs_container .menulist li:focus {transform: perspective(400px) translate3d(0,0px,0px) rotateX(10deg);}
+
+
+body[class*="admin_page_bf_docebolabs_"] .wrap h2 {color: #89BD54;font-family: "Roboto Condensed", sans-serif;text-transform: uppercase;text-align: center;font-size: 3rem;font-weight: 500;margin-top: 1em;background-color: #fff;padding: 0.5em 0;}
+body[class*="admin_page_bf_docebolabs_"] .bf_docebolabs_container {margin-top: 0;padding-top: 3em;}
+
+  /* ============================================== */
+ /* ========== RESPONSIVE MEDIA QUERIES ========== */
+/* ============================================== */
+
+
+/*  ========== DESKTOP ONLY STYLES ==========  */
+@media (min-width: 1600px) {
+	
+
+}
+
+@media (min-width: 1200px) {
+	
+
+
+}
+
+
+@media (max-width: 1600px) {
+	
+	.bf_docebolabs_container .menulist li {width: 22%;}
+
+}
+
+@media (max-width: 1200px) {
+	
+	.bf_docebolabs_container .menulist li {}
+
+}
+
+
+
+/* ========== LAPTOP STYLES ==========  */
+@media (max-width: 1300px) {
+   
+    .bf_docebolabs_container .menulist {max-width: 1300px;}
+    .bf_docebolabs_container .menulist li {min-height: 160px;max-width: 19%;}
+   
+}

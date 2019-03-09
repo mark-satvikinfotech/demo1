@@ -1,0 +1,29 @@
+/*
+ * Urdu Writing Plugin for WordPress
+ * Rad Labs
+*/
+
+.wp-editor-area{
+	font-size: 18px !important;
+}
+
+#titlediv #title-prompt-text{
+	color: #bbbbbb;
+	right: 0px;
+}
+
+.rluk_keyboard,
+.rluk_content{
+    float: left;
+    margin-right: 2%;
+    width: 48%;
+}
+
+@media screen and (max-width: 782px) {
+  .rluk_keyboard,
+  .rluk_content{
+    float: none;
+    margin-right: 0;
+    width: 100%;
+  }
+}

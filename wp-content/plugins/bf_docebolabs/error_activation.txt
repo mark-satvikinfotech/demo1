@@ -1,0 +1,10 @@
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; iSDK has a deprecated constructor in <b>/home2/satvikso/public_html/project/demo/wp-content/plugins/IS-orderform/lib/isdk.php</b> on line <b>31</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpc_client has a deprecated constructor in <b>/home2/satvikso/public_html/project/demo/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc</b> on line <b>1609</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcresp has a deprecated constructor in <b>/home2/satvikso/public_html/project/demo/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc</b> on line <b>3861</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcmsg has a deprecated constructor in <b>/home2/satvikso/public_html/project/demo/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc</b> on line <b>4177</b><br />
+<br />
+<b>Deprecated</b>:  Methods with the same name as their class will not be constructors in a future version of PHP; xmlrpcval has a deprecated constructor in <b>/home2/satvikso/public_html/project/demo/wp-content/plugins/IS-orderform/lib/xmlrpc-3.0/lib/xmlrpc.inc</b> on line <b>5427</b><br />

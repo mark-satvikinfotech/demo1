@@ -1,0 +1,20 @@
+*********************CRON start*********************
+
+09/10/2018 09:50:36
+
+Previous Token -->> O:18:"Infusionsoft\Token":4:{s:11:"accessToken";s:24:"btvjya97mb6yhzkcnenkbngz";s:12:"refreshToken";s:24:"83kkmqurb25yhmmvjsw8wt62";s:9:"endOfLife";i:1539164926;s:9:"extraInfo";a:2:{s:10:"token_type";s:6:"bearer";s:5:"scope";s:27:"full|qn241.infusionsoft.com";}}
+
+New Token -->> O:18:"Infusionsoft\Token":4:{s:11:"accessToken";s:24:"4dsth6467uegv8dytvhagqv3";s:12:"refreshToken";s:24:"2ahv7jv8vqcy5vyfv7zr7brn";s:9:"endOfLife";i:1539165036;s:9:"extraInfo";a:2:{s:10:"token_type";s:6:"bearer";s:5:"scope";s:27:"full|qn241.infusionsoft.com";}}
+
+**********************CRON end**********************
+
+*********************CRON start*********************
+
+09/10/2018 11:34:01
+
+Previous Token -->> O:18:"Infusionsoft\Token":4:{s:11:"accessToken";s:24:"b464eacwuypxawtyeh5aurg5";s:12:"refreshToken";s:24:"hr4vkz92gxahfn643vrnv9vw";s:9:"endOfLife";i:1539171233;s:9:"extraInfo";a:2:{s:10:"token_type";s:6:"bearer";s:5:"scope";s:27:"full|qn241.infusionsoft.com";}}
+
+New Token -->> O:18:"Infusionsoft\Token":4:{s:11:"accessToken";s:24:"vqepe9wswah3vkr4btw6xvw4";s:12:"refreshToken";s:24:"5km7twm896dduzfu927sx42f";s:9:"endOfLife";i:1539171241;s:9:"extraInfo";a:2:{s:10:"token_type";s:6:"bearer";s:5:"scope";s:27:"full|qn241.infusionsoft.com";}}
+
+**********************CRON end**********************
+

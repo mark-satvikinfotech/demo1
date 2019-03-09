@@ -1,0 +1,88 @@
+18-02-2019 22:59:06 - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addpurchase] => Array
+        (
+            [id] => 154
+            [username] => jesusocampo4@yahoo.com
+            [firstname] => Jesus
+            [lastname] => Ocampo
+            [email] => jesusocampo4@yahoo.com
+            [total] => 109
+            [payment_method] => AUTHORIZE.NET
+            [transaction_id] => 40890794051
+            [date_created] => 2018-08-22 18:46:50
+            [date_activated] => 2018-08-22 18:48:08
+            [status] => accepted
+            [company_name] => Ocampo's Mobile Notary and Tax Services
+            [vat] => 
+            [address_1] => 2146 El Prado Ave.
+            [address_2] => 
+            [city] => Lemon Grove
+            [state] => CA
+            [zip] => 91945
+            [id_gateway_transaction] => 40890794051
+            [id_user] => 15492
+            [unit] => USD
+            [coupon_code] => 
+            [discount] => 
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [Sku] => 29-1429
+                            [ProductName] => 2018 California 20 Hour Continuing Education eBook - 1429
+                            [ProductPrice] => 109
+                            [ShortDescription] => 2018 California 20 Hour Continuing Education eBook - elearning
+                            [Description] => <p><span style="font-size:12pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2240">here </a></span></p>
+<p><span style="font-size:12pt;">This course allows the student to complete their 20-hours. Topics Include:</span></p>
+<ul style="list-style-type:circle;"><li><span style="font-size:12pt;">Ethics</span></li>
+<li><span style="font-size:12pt;">Identity Theft- how to protect you and your client</span></li>
+<li><span style="font-size:12pt;">Income – Indepth overview of Form 1040 lines 7 – 21.</span></li>
+<li><span style="font-size:12pt;">Business Entities- different types of entities</span></li>
+<li><span style="font-size:12pt;">Offer in Compromise- What is the best solution for you or your client</span></li>
+<li><span style="font-size:12pt;">Itemized deductions</span></li>
+<li><span style="font-size:12pt;">Tax Cuts and Jobs Acts latest Updates</span></li>
+<li><span style="font-size:12pt;">California Tax Law</span></li>
+</ul><p><span style="font-size:12pt;">To fulfill CTEC requirements, you will take 4 separate finals. Each part will have a final and one must pass each part with a 70% or better.</span></p>
+<p><span style="font-size:12pt;">This course has been approved by the California Tax Education Council (2080-QE-001), which fulfills the 20-hour qualifying education requirement imposed by the state of California to become a tax preparer. A listing of additional requirements to register as a tax preparer may be obtained by contacting CTEC at P.O. Box 2890, Sacramento, CA, 95812-2890 or 1-877-850-2832 or visiting the web page www.CTEC.org. </span></p>
+<p><span style="font-size:12pt;">Click to begin.</span></p>
+<p><span style="font-size:12pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+                        )
+
+                )
+
+        )
+
+    [syncfields] => Array
+        (
+            [id_user] => _DoceboID
+            [userid] => _Username0
+            [firstname] => FirstName
+            [lastname] => LastName
+            [password] => _Password0
+            [email] => Email
+            [PTIN ( if none enter N/A)] => _PTIN
+        )
+
+    [tag] => 
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+)
+
+18-02-2019 22:59:07 - contacts: Array
+(
+    [0] => Array
+        (
+            [Id] => 132256
+        )
+
+)
+
+18-02-2019 22:59:07 - productId: 5874

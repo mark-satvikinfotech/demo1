@@ -1,0 +1,31 @@
+18-02-2019 22:57:59 - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 133-2087
+            [ProductName] => Dallas, Texas Regional English - 2087
+            [ProductPrice] => 299
+            [ShortDescription] => Dallas, Texas Regional English - classroom
+            [Description] => <p><span style="font-size:12pt;">This session will cover the following tax topics:</span></p>
+<ol><li><span style="font-size:12pt;">The New Tax Cuts and Jobs Act Updates (TCJA) (3U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule A and Form 1040 (2U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule C (U)</span></li>
+<li><span style="font-size:12pt;">Serving Multicultural Clients (U)</span></li>
+</ol><p><span style="font-size:12pt;"> </span><span style="font-size:12pt;">The TCJA will cover the new business deduction for passthrough businesses, also known as Section 199A. Qualified business income will be discussed on how to determine who will qualify for the deduction. We will cover the new forms as well as how some of the new laws affect the multicultural client.</span></p>
+<p><span style="font-size:12pt;">Included with this live event is either one 20 Hour CTEC eBook or one AFSP eBook Course to earn the Record of Completion to be added to the IRS National Database List. Your hours for the AFSP Record of Completion which needs to be completed by December 31, 2018.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Product SKU :133-2087
+result: 

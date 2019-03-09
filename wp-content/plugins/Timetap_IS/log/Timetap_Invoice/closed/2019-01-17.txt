@@ -1,0 +1,28 @@
+
+
+****************** Invoice Cron Start*******
+Date: 2019-01-17 13:26:59
+Total Invoice: 88
+Last updated Invoice: 0
+Invoice ID: 682920
+Contact Id: 36274
+Order Id : 10824 
+
+Invoice ID: 671644
+Contact Id: 37406
+Order Id : 10826 
+
+Invoice ID: 671452
+Contact Id: 37480
+Order Id : 10828 
+
+Invoice ID: 580971
+Contact Id: 37296
+Order Id : 10830 
+
+Invoice ID: 578548
+Contact Id: 16970
+Order Id : 10832 
+
+****************Invoice Cron end********************* 
+

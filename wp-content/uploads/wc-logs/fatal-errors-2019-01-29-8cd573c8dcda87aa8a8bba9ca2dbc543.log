@@ -1,0 +1,14 @@
+2019-01-29T12:30:47+00:00 CRITICAL syntax error, unexpected '"Hello"' (T_CONSTANT_ENCAPSED_STRING) in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 1
+
+2019-01-29T13:02:33+00:00 CRITICAL Cannot use object of type WP_Error as array in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 89
+
+2019-01-29T13:03:25+00:00 CRITICAL Cannot use object of type WP_Error as array in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 89
+
+2019-01-29T13:04:23+00:00 CRITICAL syntax error, unexpected '$subdomain' (T_VARIABLE) in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 1
+
+2019-01-29T13:05:43+00:00 CRITICAL syntax error, unexpected '$subdomain' (T_VARIABLE) in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 1
+
+2019-01-29T13:06:26+00:00 CRITICAL syntax error, unexpected '$subdomain' (T_VARIABLE) in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 1
+
+2019-01-29T13:07:34+00:00 CRITICAL syntax error, unexpected '$subdomain' (T_VARIABLE) in /home2/satvikso/public_html/project/demo/wp-content/plugins/bf_docebolabs/bf_docebolabs_config_sync_page.php on line 1
+

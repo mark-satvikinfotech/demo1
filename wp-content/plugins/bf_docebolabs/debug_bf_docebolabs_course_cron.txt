@@ -1,0 +1,3271 @@
+Sync started: 19-02-2019 05:22:05 UTC, (19-02-2019 05:22:05 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => edfed7b3e68e678ec223fdb0061de2ef0223144f
+    [expires] => 1550556283
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 
+lastcoursecronrun: 19-02-2019 05:14:55
+isTime: 19-02-19 00:14:55
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 8-1629
+            [ProductName] => 2018 California 60 Hour Qualifying Education eBook - 1629
+            [ProductPrice] => 299
+            [ShortDescription] => 2018 California 60 Hour Qualifying Education eBook - elearning
+            [Description] => <p><span style="font-size:12pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2246">here </a></span></p>
+<p> </p>
+<p><span style="font-size:12pt;">This course meets the 60-hour qualifying education requirement imposed by the state of California to become a tax preparer. This course has been approved by the California Tax Education Council (Vendor #2080). </span></p>
+<p> </p>
+<p><span style="font-size:12pt;">After each chapter, the student will complete online review questions and Practice Tax Returns (PTR). PTR’s will have their own set of review questions. Schedule A are prepared with state income tax withholding on line 5 and the additional state-specific taxes such as CASDI. PTR’s are based on what the course has covered so far.</span></p>
+<p> </p>
+<p><span style="font-size:12pt;">CTEC requires the student to take a separate test for the following parts: Ethics, Federal Tax Law and California Tax Law. The ethics final consists of 10 questions on the Ethics Session. California Tax Law final will be at the end of the course after completing the entire sessions. This test will consist of 75 questions. Federal final will be administered after the California Tax Law final and will consist of 215 questions. Which meets CTEC requirements of 5 questions per study hour. </span></p>
+<p> </p>
+<p><span style="font-size:12pt;">You must pass each final with a 70% or better. You will receive a separate certificate for each session.</span></p>
+<p> </p>
+<p><span style="font-size:12pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 20-1379
+            [ProductName] => Enrolled Agent Part I: The Kickoff - 1379
+            [ProductPrice] => 995
+            [ShortDescription] => Enrolled Agent Part I: The Kickoff - webinar
+            [Description] => <p><span style="font-size:16px;font-family:arial, helvetica, sans-serif;">The first step is always the hardest, but this year we're making it easier for you to kickoff the next step in your career. </span><span style="font-size:16px;font-family:arial, helvetica, sans-serif;">Join our 6 week class where we combine both online and live webinar training for the </span><strong style="font-size:16px;font-family:arial, helvetica, sans-serif;">Enrolled Agent Part I: Individuals Exam</strong><span style="font-size:16px;font-family:arial, helvetica, sans-serif;">.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 28-1423
+            [ProductName] => 2018 California 60 Hour Qualifying Education Bilingual e-Book  - 1423
+            [ProductPrice] => 299
+            [ShortDescription] => 2018 California 60 Hour Qualifying Education Bilingual e-Book  - elearning
+            [Description] => <p><span style="font-size:14pt;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2244">aquí </a></span></p>
+<p> </p>
+<p><span style="font-size:14pt;">This course meets the 60-hour qualifying education requirement imposed by the state of California to become a tax preparer. This course has been approved by the California Tax Education Council (Vendor #2080).</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">After each chapter, the student will complete online review questions and Practice Tax Returns (PTR). PTR’s will have their own set of review questions. Schedule A are prepared with state income tax withholding on line 5 and the additional state-specific taxes such as CASDI. PTR’s are based on what the course has covered so far.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">CTEC requires the student to take a separate test for the following parts: Ethics, Federal Tax Law and California Tax Law. The ethics final consists of 10 questions on the Ethics Session. California Tax Law final will be at the end of the course after completing the entire sessions. This test will consist of 75 questions. Federal final will be administered after the California Tax Law final and will consist of 215 questions. Which meets CTEC requirements of 5 questions per study hour. </span></p>
+<p> </p>
+<p><span style="font-size:14pt;">You must pass each final with a 70% or better. You will receive a separate certificate for each session.</span></p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 29-1429
+            [ProductName] => 2018 California 20 Hour Continuing Education eBook - 1429
+            [ProductPrice] => 109
+            [ShortDescription] => 2018 California 20 Hour Continuing Education eBook - elearning
+            [Description] => <p><span style="font-size:12pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2240">here </a></span></p>
+<p><span style="font-size:12pt;">This course allows the student to complete their 20-hours. Topics Include:</span></p>
+<ul style="list-style-type:circle;"><li><span style="font-size:12pt;">Ethics</span></li>
+<li><span style="font-size:12pt;">Identity Theft- how to protect you and your client</span></li>
+<li><span style="font-size:12pt;">Income – Indepth overview of Form 1040 lines 7 – 21.</span></li>
+<li><span style="font-size:12pt;">Business Entities- different types of entities</span></li>
+<li><span style="font-size:12pt;">Offer in Compromise- What is the best solution for you or your client</span></li>
+<li><span style="font-size:12pt;">Itemized deductions</span></li>
+<li><span style="font-size:12pt;">Tax Cuts and Jobs Acts latest Updates</span></li>
+<li><span style="font-size:12pt;">California Tax Law</span></li>
+</ul><p><span style="font-size:12pt;">To fulfill CTEC requirements, you will take 4 separate finals. Each part will have a final and one must pass each part with a 70% or better.</span></p>
+<p><span style="font-size:12pt;">This course has been approved by the California Tax Education Council (2080-QE-001), which fulfills the 20-hour qualifying education requirement imposed by the state of California to become a tax preparer. A listing of additional requirements to register as a tax preparer may be obtained by contacting CTEC at P.O. Box 2890, Sacramento, CA, 95812-2890 or 1-877-850-2832 or visiting the web page www.CTEC.org. </span></p>
+<p><span style="font-size:12pt;">Click to begin.</span></p>
+<p><span style="font-size:12pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 32-1435
+            [ProductName] => 2018 California 20 Hour Continuing Education Bilingual e-Book - 1435
+            [ProductPrice] => 109
+            [ShortDescription] => 2018 California 20 Hour Continuing Education Bilingual e-Book - elearning
+            [Description] => <p><span style="font-size:12pt;color:#000000;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2242">aquí </a></span></p>
+<p><span style="font-size:12pt;color:#000000;">This course allows the student to complete their 20-hours. Topics Include:</span></p>
+<ul style="list-style-type:circle;"><li><span style="font-size:12pt;color:#000000;">Ethics</span></li>
+<li><span style="font-size:12pt;color:#000000;">Identity Theft- how to protect you and your client</span></li>
+<li><span style="font-size:12pt;color:#000000;">Income – Indepth overview of Form 1040 lines 7 – 21.</span></li>
+<li><span style="font-size:12pt;color:#000000;">Business Entities- what is the different types of entities</span></li>
+<li><span style="font-size:12pt;color:#000000;">Offer in Compromise- What is the best solution for you or your client</span></li>
+<li><span style="font-size:12pt;color:#000000;">Itemized deductions</span></li>
+<li><span style="font-size:12pt;color:#000000;">Tax Cuts and Jobs Acts latest Updates</span></li>
+<li><span style="font-size:12pt;color:#000000;">California Tax Law</span></li>
+</ul><p><span style="font-size:12pt;color:#000000;">To fulfill CTEC requirements, you will take 4 separate finals. Each part will have a final and one must pass each part with a 70% or better.</span></p>
+<p><span style="font-size:12pt;color:#000000;">This course has been approved by the California Tax Education Council (2080-QE-001), which fulfills the 20-hour qualifying education requirement imposed by the state of California to become a tax preparer. A listing of additional requirements to register as a tax preparer may be obtained by contacting CTEC at P.O. Box 2890, Sacramento, CA, 95812-2890 or 1-877-850-2832 or visiting the web page www.CTEC.org. </span></p>
+<p><span style="font-size:12pt;color:#000000;">For course support please email your question to <strong><a style="color:#000000;" href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 33-1405
+            [ProductName] => 2018 Tax Preparation Course eBook  - 1405
+            [ProductPrice] => 299
+            [ShortDescription] => 2018 Tax Preparation Course eBook  - elearning
+            [Description] => <p><span style="color:#000000;font-size:14pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2248">here</a> </span></p>
+<p> </p>
+<p><span style="color:#000000;font-size:14pt;">When the student completes this course, they will have a basic understanding of how to prepare Form 1040. Completing Form 1040 means that you will be able to determine the taxpayers filing status, which form to use, what credits the taxpayer could qualify for and how to determine who is a qualifying dependent for the taxpayer.</span></p>
+<p> </p>
+<p><span style="color:#000000;font-size:14pt;">The student must pass each section with a 70% or better before being able to go to the next session. The final will consist of questions that you have seen in the quizzes from all of the sessions.</span></p>
+<p> </p>
+<p><span style="color:#000000;font-size:14pt;">For course support please email your question to <strong><a style="color:#000000;" href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 36-1411
+            [ProductName] => 2018 Tax Preparation Course Bilingual eBook - 1411
+            [ProductPrice] => 299
+            [ShortDescription] => 2018 Tax Preparation Course Bilingual eBook - elearning
+            [Description] => <p><span style="font-size:14pt;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2250">aquí </a></span></p>
+<p> </p>
+<p><span style="font-size:14pt;">When the student completes this course, they will have a basic understanding of how to prepare Form 1040. Completing Form 1040 means that you will be able to determine the taxpayers filing status, which form to use, what credits the taxpayer could qualify for and how to determine who is a qualifying dependent for the taxpayer.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">The student must pass each section with a 70% or better before being able to go to the next session. The final will consist of questions that you have seen in the quizzes from all of the sessions.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 37-1453
+            [ProductName] => 2019 Annual Federal Tax Refresher Course eBook  - 1453
+            [ProductPrice] => 109
+            [ShortDescription] => 2019 Annual Federal Tax Refresher Course eBook  - elearning
+            [Description] => <p><span style="font-size:14pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2256">here </a></span></p>
+<p> </p>
+<p><span style="font-size:14pt;">This course contains only the 6-hour Annual Federal Tax Refresher course. If you are an unenrolled preparer you will need this course as well as 10 hours of tax law and 2-hours of ethics. You must pass the 3-hour timed 100-question test with a 70% or better. You may use the eBook while taking the timed test.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 39-1457
+            [ProductName] => 2019 Annual Federal Tax Refresher Course Bilingual eBook - 1457
+            [ProductPrice] => 109
+            [ShortDescription] => 2019 Annual Federal Tax Refresher Course Bilingual eBook - elearning
+            [Description] => <p><span style="font-size:14pt;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2258">aquí</a></span></p>
+<p> </p>
+<p><span style="font-size:14pt;">This course contains only the 6-hour Annual Federal Tax Refresher course. If you are an unenrolled preparer you will need this course as well as 10 hours of tax law and 2-hours of ethics. You must pass the 3-hour timed 100-question test with a 70% or better. You may use the eBook while taking the timed test.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 41-1441
+            [ProductName] => 2019 Annual Filing Season Program eBook - 1441
+            [ProductPrice] => 159
+            [ShortDescription] => 2019 Annual Filing Season Program eBook - elearning
+            [Description] => <p><span style="font-size:14pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2252">here</a> </span></p>
+<p> </p>
+<p><span style="font-size:14pt;">This course contains 10 hours tax law, 6 hours AFTR, and 2-Hours Ethics. After completion of this course with a 70% or better, the tax professional will be able to have limited representation rights for their clients.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Sync ended: 19-02-2019 05:22:50 UTC, (19-02-2019 05:22:50 )
+Sync started: 19-02-2019 05:30:09 UTC, (19-02-2019 05:30:09 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => edfed7b3e68e678ec223fdb0061de2ef0223144f
+    [expires] => 1550556283
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 
+lastcoursecronrun: 19-02-2019 05:22:50
+isTime: 19-02-19 00:22:50
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 43-1445
+            [ProductName] => 2019 Annual Filing Season Program Bilingual eBook - 1445
+            [ProductPrice] => 159
+            [ShortDescription] => 2019 Annual Filing Season Program Bilingual eBook - elearning
+            [Description] => <p><span style="font-size:14pt;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2254">aquí </a></span></p>
+<p> </p>
+<p><span style="font-size:14pt;">This course contains 10 hours tax law, 6 hours AFTR, and 2-Hours Ethics. After completion of this course with a 70% or better, the tax professional will be able to have limited representation rights for their clients.</span></p>
+<p> </p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 56-1367
+            [ProductName] => Corporations &amp; Partnerships 3 Day Training (Spr) - 1367
+            [ProductPrice] => 799
+            [ShortDescription] => Corporations &amp; Partnerships 3 Day Training (Spr) - classroom
+            [Description] => <p><span style="font-size:12pt;">Presented by seasoned Enrolled Agents.  We will take actual Profit &amp; Loss statements, balance sheets and partner basis and fill in the tax returns live.</span></p>
+<p><span style="font-size:12pt;"><strong>June 25 - 1065 Partnerships</strong> – Generally all domestic partnerships must file IRS Form 1065 annually to report revenue and expenses.  Form 1065 must be filed by the 15th day of the third month following the end of the partnership’s year.</span></p>
+<p><span style="font-size:12pt;"><strong>June 26</strong> <strong>-</strong> <strong>1120 C Corporations –</strong> A corporation is a separate entity from it’s owners (shareholders) that pays income tax by filing a corporate tax return on Form 1120 and paying the income taxes at the corporate income rate, not the personal tax rate.</span></p>
+<p><span style="font-size:12pt;"><strong>June 27</strong> <strong>- 1120S Corporations</strong> – Use Form 1120S to report the income, gains, losses, deductions, credits, etc., of a domestic corporation covered by an election to be an S Corporation.  S Corporations elect to pass corporate income, losses, deductions generally with a Form K-1.  There are certain qualifications to use the S Corporation election.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 60-1391
+            [ProductName] => Corporations &amp; Partnerships 3 Day Training (Fall) - 1391
+            [ProductPrice] => 799
+            [ShortDescription] => Corporations &amp; Partnerships 3 Day Training (Fall) - classroom
+            [Description] => <p><span style="font-size:12pt;">Presented by seasoned Enrolled Agents.  We will take actual Profit &amp; Loss statements, balance sheets and partner basis and fill in the tax returns live.</span></p>
+<p><span style="font-size:12pt;"><strong>June 25 - 1065 Partnerships</strong> – Generally all domestic partnerships must file IRS Form 1065 annually to report revenue and expenses.  Form 1065 must be filed by the 15th day of the third month following the end of the partnership’s year.</span></p>
+<p><span style="font-size:12pt;"><strong>June 26</strong> <strong>-</strong> <strong>1120 C Corporations –</strong> A corporation is a separate entity from it’s owners (shareholders) that pays income tax by filing a corporate tax return on Form 1120 and paying the income taxes at the corporate income rate, not the personal tax rate.</span></p>
+<p><span style="font-size:12pt;"><strong>June 27</strong> <strong>- 1120S Corporations</strong> – Use Form 1120S to report the income, gains, losses, deductions, credits, etc., of a domestic corporation covered by an election to be an S Corporation.  S Corporations elect to pass corporate income, losses, deductions generally with a Form K-1.  There are certain qualifications to use the S Corporation election.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 72-winetour18
+            [ProductName] => 2018 Wine Tour - winetour18
+            [ProductPrice] => 199
+            [ShortDescription] => 2018 Wine Tour - classroom
+            [Description] => <p>The Second Annual LTPA Wine Tour will begin 10:15 am on June 29, 2018. The bus will pick up the attendees and transport them to the first stop. At this stop a in-dept wine tour including barrel tastings! Sign up now and learn the art of wine making!</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 73-2018 SP Live Instructor
+            [ProductName] => Live Instructor Training June 28, 2018 - 2018 SP Live Instructor
+            [ProductPrice] => 597
+            [ShortDescription] => Live Instructor Training June 28, 2018 - classroom
+            [Description] => <p>This live training will teach the basics of how to navigate Prendo365.</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 74-2018 SP TCJA (E)
+            [ProductName] => Tax Cuts and Jobs Act - 2018 SP TCJA (E)
+            [ProductPrice] => 199
+            [ShortDescription] => Tax Cuts and Jobs Act - webinar
+            [Description] => <p>This 3-hour live webinar will give a basic overview of the tax changes from the Tax Cut and Jobs Act bill.</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 75-2018 SP TCJA (S)
+            [ProductName] => Repaso sobre la Ley de Recortes de Impuestos y del Empleo (TCJA) - 2018 SP TCJA (S)
+            [ProductPrice] => 199
+            [ShortDescription] => Repaso sobre la Ley de Recortes de Impuestos y del Empleo (TCJA) - webinar
+            [Description] => <p><br> La Ley de Recortes de Impuestos y del Empleo (TCJA, por sus siglas en inglés) es la reforma tributaria más grande que se ha implementado en 30 años. Algunas partes de la ley tendrán un importante impacto en los clientes individuales y comerciales. Este webinario le presenta un resumen de los puntos importantes en la nueva ley.</p>
+<p>Al terminar el webinario, los profesionales en impuestos podrán:</p>
+<ul><li>Comprender los cambios en las tarifas tributarias, las deducciones estándar y las exenciones personales</li>
+<li>Aprender los cambios en el Anexo A</li>
+<li>Identificar los ajustes al ingreso que ya no estarán disponibles</li>
+<li>Aprender sobre la nueva deducción del 20% disponible para el ingreso de negocio calificado (QBI, por sus siglas en inglés)</li>
+<li>Comprender los nuevos cambios en el Crédito Tributario por Menores</li>
+<li>Demostrar su conocimiento sobre el nuevo crédito familiar no-reembolsable de $500</li>
+<li>¡Y mucho, mucho más! </li>
+</ul><p> </p>
+<p>Webinar Vendor Number: 15G0B-U-00316-18-I</p>
+<p>Recorded Webinar Vendor Number: 15G0B-U-00316-18-S</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 76-2018 1065 SP
+            [ProductName] => 2018 Form 1065 Partnership - 2018 1065 SP
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1065 Partnership - classroom
+            [Description] => <p><span style="font-size:12pt;"><span style="font-family:Arial, sans-serif;">Generally all domestic partnerships must file IRS Form 1065 annually to report revenue and expenses.  Form 1065 must be filed by the 15</span>th day of the third month following the end of the partnership’s year. In this course you will learn the basics of partnership tax return preparation. You will be guided line by line with a real scenario from beginning to end of the partnership life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 77-2018 1120 SP
+            [ProductName] => 2018 Form 1120 Corporation - 2018 1120 SP
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1120 Corporation - classroom
+            [Description] => <p><span style="font-size:12pt;">Learn how a C corporation is a separate entity from the shareholders. See line by line instructions how the corporation pays the income tax on Form 1120. Comparing how the tax is different at the corporate rate versus the individual rate. Questions that will be address is how the TCJA may be better for some corporations to become a C corporation versus an S corporation or an LLC treated as an S Corp. You will learn with a real scenario from beginning to end of the C Corporation life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 78-2018 1120S SP
+            [ProductName] => 2018 Form 1120S - 2018 1120S SP
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1120S - classroom
+            [Description] => <p><span style="font-family:Arial, sans-serif;font-size:12pt;">Form 1120S is used to report the income, gains, losses, deductions, credits, etc., of a domestic corporation covered by an election to be an S Corporation. S Corporations elect to pass-through corporate income, losses, deductions generally by using Form K-1.  Learn the qualifications and how to file to become an S Corporation.</span></p>
+<p><span style="font-family:Arial, sans-serif;font-size:12pt;">Learn line by line instructions how to complete Form 1120. Learn with a real scenario from beginning to end of the S Corporation life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Sync ended: 19-02-2019 05:30:42 UTC, (19-02-2019 05:30:42 )
+Sync started: 19-02-2019 05:38:11 UTC, (19-02-2019 05:38:11 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => edfed7b3e68e678ec223fdb0061de2ef0223144f
+    [expires] => 1550556283
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 
+lastcoursecronrun: 19-02-2019 05:30:42
+isTime: 19-02-19 00:30:42
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 80-2005
+            [ProductName] => 2018 Introductory Tax Course eBook  - 2005
+            [ProductPrice] => 179
+            [ShortDescription] => 2018 Introductory Tax Course eBook  - elearning
+            [Description] => <p><span style="color:#000000;font-size:14pt;">When the student completes this course, they will have a basic understanding of how to prepare Form 1040. Completing Form 1040 means that you will be able to determine the taxpayers filing status, which form to use, what credits the taxpayer could qualify for and how to determine who is a qualifying dependent for the taxpayer.</span></p>
+<p> </p>
+<p><span style="color:#000000;font-size:14pt;">The student must pass each section with a 70% or better before being able to go to the next session. The final will consist of questions that you have seen in the quizzes from all of the sessions.</span></p>
+<p> </p>
+<p><span style="color:#000000;font-size:14pt;">For course support please email your question to <strong><a style="color:#000000;" href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 85-
+            [ProductName] => Summer 2018 Survey - 
+            [ProductPrice] => 0.00
+            [ShortDescription] => Summer 2018 Survey - elearning
+            [Description] => <p>Please take a few minutes to give us your feedback. </p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 86-web18MCF
+            [ProductName] => How to Serve Multicultural Clients - web18MCF
+            [ProductPrice] => 0.00
+            [ShortDescription] => How to Serve Multicultural Clients - webinar
+            [Description] => <p><span style="font-size:12pt;">This course will cover how to identify which SSN cards are eligible for tax credits. How do foreign partners affect a partnership and how to advise an ITIN business client. Learn how to guide your clients through the maze of undocumented workers and VISA holders. Which Visa holders are required to pay FICA and income tax.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 87-web18mcfs
+            [ProductName] => How to Serve Multicultural Clients en espanol - web18mcfs
+            [ProductPrice] => 0.00
+            [ShortDescription] => How to Serve Multicultural Clients en espanol - webinar
+            [Description] => <p><span style="font-size:12pt;">This course will cover how to identify which SSN cards are eligible for tax credits. How do foreign partners affect a partnership and how to advise an ITIN business client. Learn how to guide your clients through the maze of undocumented workers and VISA holders. Which Visa holders are required to pay FICA and income tax.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 90-Do not sell this course
+            [ProductName] => 2019 AFTR Test - Do not sell this course
+            [ProductPrice] => 0.00
+            [ShortDescription] => 2019 AFTR Test - elearning
+            [Description] => <p>This course is not for sell.</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 92-2018 new
+            [ProductName] => The New 1040 - 2018 new
+            [ProductPrice] => 0.00
+            [ShortDescription] => The New 1040 - webinar
+            [Description] => <p><span style="font-size:12pt;">This FREE presentation examines the new 2018 Draft of Form 1040 along with 6 new schedules. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 98-2018 new sp
+            [ProductName] => The New 1040 en espanol - 2018 new sp
+            [ProductPrice] => 0.00
+            [ShortDescription] => The New 1040 en espanol - webinar
+            [Description] => <p>This course will</p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 104-1065 nov
+            [ProductName] => 2018 Form 1065 Partnership - 1065 nov
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1065 Partnership - classroom
+            [Description] => <p><span style="font-size:12pt;">Generally, all domestic partnerships must file IRS Form 1065 annually to report revenue and expenses.  Form 1065 must be filed by the 15th day of the third month following the end of the partnership’s year. In this course you will learn the basics of partnership tax return preparation. You will be guided line by line with a real scenario from beginning to end of the partnership life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 105-1120 nov
+            [ProductName] => 2018 Form 1120 Corporation - 1120 nov
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1120 Corporation - classroom
+            [Description] => <p><span style="font-size:12pt;">Learn how a C corporation is a separate entity from the shareholders. See line by line instructions how the corporation pays the income tax on Form 1120. Comparing how the tax is different at the corporate rate versus the individual rate. Questions that will be address is how the TCJA may be better for some corporations to become a C corporation versus an S corporation or an LLC treated as an S Corp. You will learn with a real scenario from beginning to end of the C Corporation life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 106-1120S nov
+            [ProductName] => 2018 Form 1120 S-Corporation - 1120S nov
+            [ProductPrice] => 399
+            [ShortDescription] => 2018 Form 1120 S-Corporation - classroom
+            [Description] => <p><span style="font-size:12pt;">Form 1120S is used to report the income, gains, losses, deductions, credits, etc., of a domestic corporation covered by an election to be an S Corporation. S Corporations elect to pass-through corporate income, losses, deductions generally by using Form K-1.  Learn the qualifications and how to file to become an S Corporation.</span></p>
+<p><span style="font-size:12pt;">Learn line by line instructions how to complete Form 1120. Learn with a real scenario from beginning to end of the S Corporation life.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Sync ended: 19-02-2019 05:38:38 UTC, (19-02-2019 05:38:38 )
+Sync started: 19-02-2019 05:47:28 UTC, (19-02-2019 05:47:28 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => edfed7b3e68e678ec223fdb0061de2ef0223144f
+    [expires] => 1550556283
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 
+lastcoursecronrun: 19-02-2019 05:38:38
+isTime: 19-02-19 00:38:38
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 107-20 Hour Sept
+            [ProductName] => 20 Hour Live Sept CTEC - 20 Hour Sept
+            [ProductPrice] => 349
+            [ShortDescription] => 20 Hour Live Sept CTEC - classroom
+            [Description] => <p><span style="font-size:12pt;">This course allows the student to complete their 20-hours. Topics include:</span></p>
+<ul><li><span style="font-size:12pt;">Ethics</span></li>
+<li><span style="font-size:12pt;">Identity Theft- how to protect you and your client</span></li>
+<li><span style="font-size:12pt;">Income – In-depth overview of Form 1040 lines 7 – 21.</span></li>
+<li><span style="font-size:12pt;">Business Entities- what is the different types of entities</span></li>
+<li><span style="font-size:12pt;">Offer in Compromise- What is the best solution for you or your client</span></li>
+<li><span style="font-size:12pt;">Itemized deductions</span></li>
+<li><span style="font-size:12pt;">Tax Cuts and Jobs Acts latest Updates</span></li>
+<li><span style="font-size:12pt;">California Tax Law</span></li>
+</ul><p><span style="font-size:12pt;">This course has been approved by the California Tax Education Council (2080-QE-001), which fulfills the 20-hour qualifying education requirement imposed by the state of California to become a tax preparer. A listing of additional requirements to register as a tax preparer may be obtained by contacting CTEC at P.O. Box 2890, Sacramento, CA, 95812-2890 or 1-877-850-2832 or visiting the web page www.CTEC.org. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 108-20 Hour Oct 3-5, 2018
+            [ProductName] => 20 Hour Live Oct CTEC -Spanish - 20 Hour Oct 3-5, 2018
+            [ProductPrice] => 349
+            [ShortDescription] => 20 Hour Live Oct CTEC -Spanish - classroom
+            [Description] => <p><span style="font-size:12pt;">This course allows the student to complete their 20-hours. Topics include:</span></p>
+<ul><li><span style="font-size:12pt;">Ethics</span></li>
+<li><span style="font-size:12pt;">Identity Theft- how to protect you and your client</span></li>
+<li><span style="font-size:12pt;">Income – In-depth overview of Form 1040 lines 7 – 21.</span></li>
+<li><span style="font-size:12pt;">Business Entities- what is the different types of entities</span></li>
+<li><span style="font-size:12pt;">Offer in Compromise- What is the best solution for you or your client</span></li>
+<li><span style="font-size:12pt;">Itemized deductions</span></li>
+<li><span style="font-size:12pt;">Tax Cuts and Jobs Acts latest Updates</span></li>
+<li><span style="font-size:12pt;">California Tax Law</span></li>
+</ul><p><span style="font-size:12pt;">This course has been approved by the California Tax Education Council (2080-QE-001), which fulfills the 20-hour qualifying education requirement imposed by the state of California to become a tax preparer. A listing of additional requirements to register as a tax preparer may be obtained by contacting CTEC at P.O. Box 2890, Sacramento, CA, 95812-2890 or 1-877-850-2832 or visiting the web page www.CTEC.org. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 110-
+            [ProductName] => 2018 CA 60hr-Ethics  - 
+            [ProductPrice] => 0.00
+            [ShortDescription] => 2018 CA 60hr-Ethics  - webinar
+            [Description] => <p><span style="font-size:12pt;">CA law requires anyone who prepares tax returns for a fee and is not an attorney, CPA, or enrolled agent (EA) to register with CTEC. First time preparers must comply with 60 hours of qualifying tax education. After the first time, preparers must comply with 20 hours of continuing education annually. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 111-2018 Fed Inst
+            [ProductName] => 2018 Federal Instructor Program - 2018 Fed Inst
+            [ProductPrice] => 597
+            [ShortDescription] => 2018 Federal Instructor Program - elearning
+            [Description] => <p><span style="font-size:12pt;">The 2018 Instructor Guide is part of a complete Professional Training System that turns your office into a CE Training Center where you can train your employees your way, recruit high-quality employees to grow your business, and reduce your stress!</span></p>
+<p><span style="font-size:12pt;">Program Includes:</span></p>
+<ul><li><span style="font-size:12pt;">Tax Preparation Course eBook</span></li>
+<li><span style="font-size:12pt;">Annual Filing Season Program eBook</span></li>
+<li><span style="font-size:12pt;">2018 Tax Updates</span></li>
+<li><span style="font-size:12pt;">Instructor Training and Support</span></li>
+<li><span style="font-size:12pt;">Instructor Dashboard and Course PowerPoints</span></li>
+<li><span style="font-size:12pt;">Marketing Materials</span></li>
+<li><span style="font-size:12pt;">Instructor Pricing: All of our instructors can purchase our products at a discount to resell at your own value.</span></li>
+</ul>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 112-2018 CA Inst
+            [ProductName] => 2018 California Instructor Program - 2018 CA Inst
+            [ProductPrice] => 597
+            [ShortDescription] => 2018 California Instructor Program - elearning
+            [Description] => <p><span style="font-size:12pt;">The 2018 Instructor Guide is part of a complete Professional Training System that turns your office into a CE Training Center where you can train your employees your way, recruit high-quality employees to grow your business, and reduce your stress!</span></p>
+<p> </p>
+<p><span style="font-size:12pt;">Program Includes:</span></p>
+<ul><li><span style="font-size:12pt;">60 Hour Qualifying Education eBook</span></li>
+<li><span style="font-size:12pt;">20 Hour Continuing Education eBook</span></li>
+<li><span style="font-size:12pt;">2018 Tax Updates</span></li>
+<li><span style="font-size:12pt;">Instructor Training and Support</span></li>
+<li><span style="font-size:12pt;">Instructor Dashboard and Course PowerPoints</span></li>
+<li><span style="font-size:12pt;">Marketing Materials</span></li>
+<li><span style="font-size:16px;">Instructor Pricing: All of our instructors can purchase our products at a discount to resell at your own value.</span></li>
+</ul>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 113-2018 TCJA
+            [ProductName] => 2018 Tax Cuts &amp; Jobs Act - 2018 TCJA
+            [ProductPrice] => 199
+            [ShortDescription] => 2018 Tax Cuts &amp; Jobs Act - elearning
+            [Description] => <p><span style="font-size:12pt;">If you would like to purchase this course and the textbook click <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2260">here</a></span></p>
+<p> </p>
+<p><span style="font-size:12pt;">This course contains the most current tax law updates. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 115-2018 TCJA Spn
+            [ProductName] => 2018 Tax Cuts &amp; Jobs Act - Spanish  - 2018 TCJA Spn
+            [ProductPrice] => 199
+            [ShortDescription] => 2018 Tax Cuts &amp; Jobs Act - Spanish  - elearning
+            [Description] => <p><span style="font-size:12pt;">Si usted desea comprar este curso y el libro de texto haga clic <a href="https://bs307.infusionsoft.com/app/manageCart/addProduct?productId=2262">aquí</a> </span></p>
+<p> </p>
+<p><span style="font-size:12pt;">This course contains the most current tax law updates. </span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 117-TCJA and 1040 Draft
+            [ProductName] => 2018 - A TCJA Summary &amp; The New 1040 Draft - TCJA and 1040 Draft
+            [ProductPrice] => 0.00
+            [ShortDescription] => 2018 - A TCJA Summary &amp; The New 1040 Draft - elearning
+            [Description] => <p><span style="font-size:12pt;">This is a summary overview describing what is changing, what is not changing, and how 2018 is affected by the Tax Cuts &amp; Jobs Act. The new draft form 1040 proposed by congress will also be reviewed and discussed in detail.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 118-TCJA and 1040 Draft Sp
+            [ProductName] => 2018 - A TCJA Summary &amp; The New 1040 Draft - Spanish  - TCJA and 1040 Draft Sp
+            [ProductPrice] => 0.00
+            [ShortDescription] => 2018 - A TCJA Summary &amp; The New 1040 Draft - Spanish  - elearning
+            [Description] => <p><span style="font-size:12pt;">Esta presentación es un repaso que describe lo que ha cambiado, qué no ha cambiado y la forma en que la Ley de Recortes Tributarios y de Empleo afectará el año tributario 2018. También hablaremos y debatiremos en detalle sobre el borrador del nuevo Formulario 1040 que el Congreso ha propuesto.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 120-2059
+            [ProductName] => 2018 15 Hour Continuing Education eBook - 2059
+            [ProductPrice] => 159
+            [ShortDescription] => 2018 15 Hour Continuing Education eBook - elearning
+            [Description] => <p><span style="font-size:14pt;">This course contains 10 hours tax law, 3 hours Updates, and 2-Hours Ethics. <br></span></p>
+<p><span style="font-size:14pt;">Click eBook to begin reading.</span></p>
+<p><span style="font-size:14pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Sync ended: 19-02-2019 05:48:10 UTC, (19-02-2019 05:48:10 )
+Sync started: 19-02-2019 05:56:09 UTC, (19-02-2019 05:56:09 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => edfed7b3e68e678ec223fdb0061de2ef0223144f
+    [expires] => 1550556283
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 
+lastcoursecronrun: 19-02-2019 05:48:10
+isTime: 19-02-19 00:48:10
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 121-2018 CA 5 Hr
+            [ProductName] => 2018 California 5 Hour Tax Law - 2018 CA 5 Hr
+            [ProductPrice] => 49
+            [ShortDescription] => 2018 California 5 Hour Tax Law - elearning
+            [Description] => <p><span style="font-size:12pt;">This online self-study course is approved by the California Tax Education Council (2080-CE-0004) and fulfills the 5-hours of California Tax Law requirement. This course is designed for California tax professionals who have completed the required IRS 15 hour continuing education requirements.  A physical booklet is also supplied for easy reference.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 122-x2018 Fall EA II
+            [ProductName] => Enrolled Agent Part II: Business  - x2018 Fall EA II
+            [ProductPrice] => 995
+            [ShortDescription] => Enrolled Agent Part II: Business  - webinar
+            [Description] => <p><span style="font-size:16px;font-family:arial, helvetica, sans-serif;">Join our combine online and live webinar training. Students are responsible to purchase their own Gleim training materials. Please contact Courtney Sefjack 1-800-874-5346 ext. 658.<br></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 125-2018 Fall Int Training 
+            [ProductName] => 2018 Fall Instructor Live Training  - 2018 Fall Int Training 
+            [ProductPrice] => 597
+            [ShortDescription] => 2018 Fall Instructor Live Training  - classroom
+            [Description] => <p><span style="font-size:12pt;">The 2018 Instructor Guide is part of a complete Professional Training System that turns your office into a CE Training Center where you can train your employees your way, recruit high-quality employees to grow your business, and reduce your stress!</span></p>
+<p><span style="font-size:12pt;">Program Includes:</span></p>
+<ul><li><span style="font-size:12pt;">Tax Preparation Course eBook</span></li>
+<li><span style="font-size:12pt;">Annual Filing Season Program eBook</span></li>
+<li><span style="font-size:12pt;">2018 Tax Updates</span></li>
+<li><span style="font-size:12pt;">Instructor Training and Support</span></li>
+<li><span style="font-size:12pt;">Instructor Dashboard and Course PowerPoints</span></li>
+<li><span style="font-size:12pt;">Marketing Materials</span></li>
+<li><span style="font-size:12pt;">Instructor Pricing: All of our instructors can purchase our products at a discount to resell at your own value.</span></li>
+</ul>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 126-2073
+            [ProductName] => 2018 California 60 Hour Qualifying Education eBook Free Trial - 2073
+            [ProductPrice] => 299
+            [ShortDescription] => 2018 California 60 Hour Qualifying Education eBook Free Trial - elearning
+            [Description] => <p><span style="font-size:12pt;">Free trial of the 60 HR CA, first two chapters included</span></p>
+<p> </p>
+<p><span style="font-size:12pt;">Click Start Learning to begin.</span></p>
+<p><span style="font-size:12pt;">For course support please email your question to <strong><a href="mailto:edsupport@latinotaxpro.org">edsupport@latinotaxpro.org</a></strong></span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 127-2018 60 HR Live
+            [ProductName] => 2018 Live 60-Hour Course at Corporate - 2018 60 HR Live
+            [ProductPrice] => 499
+            [ShortDescription] => 2018 Live 60-Hour Course at Corporate - classroom
+            [Description] => <p><span style="font-size:12pt;">This course meets the 60-hour qualifying education requirement imposed by the state of California to become a tax preparer. This course has been approved by the California Tax Education Council (Vendor #2080). </span></p>
+<p><span style="font-size:12pt;">After each chapter, the student will complete online review questions and Practice Tax Returns (PTR). PTR’s will have their own set of review questions. Schedule A are prepared with state income tax withholding on line 5 and the additional state-specific taxes such as CASDI. PTR’s are based on what the course has covered so far.</span></p>
+<p><span style="font-size:12pt;">CTEC requires the student to take a separate test for the following parts: Ethics, Federal Tax Law and California Tax Law. The ethics final consists of 10 questions on the Ethics Session. California Tax Law final will be at the end of the course after completing the entire sessions. This test will consist of 75 questions. Federal final will be administered after the California Tax Law final and will consist of 215 questions. Which meets CTEC requirements of 5 questions per study hour. 2</span></p>
+<p><span style="font-size:12pt;">You must pass each final with a 70% or better. You will receive a separate certificate for </span></p>
+<p><span style="font-size:12pt;">each session.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 128-
+            [ProductName] => How to log in - 
+            [ProductPrice] => 0.00
+            [ShortDescription] => How to log in - webinar
+            [Description] => <p><span style="font-size:12pt;">How to log into Prendo365.com</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 129-TCJA en espanol
+            [ProductName] => TCJA en espanol - TCJA en espanol
+            [ProductPrice] => 0.00
+            [ShortDescription] => TCJA en espanol - webinar
+            [Description] => <p><span style="font-size:12pt;"><strong>Objetivos </strong></span></p>
+<ol><li><span style="font-size:12pt;"><strong>Identificar los cambios creados por la Tax Cuts &amp; Jobs Act</strong></span></li>
+<li><span style="font-size:12pt;"><strong>Comprender cuándo se debe usar la deducción estándar y cuando las deducciones detalladas </strong></span></li>
+<li><span style="font-size:12pt;"><strong>Entender los beneficios de la Sec. 199 A </strong></span></li>
+<li><span style="font-size:12pt;"><strong>Familiarizarse con las fórmulas para la calcular la deducción de la Sec. 199 A </strong></span></li>
+</ol>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 130-2083
+            [ProductName] => Bay Area Regional English - 2083
+            [ProductPrice] => 299
+            [ShortDescription] => Bay Area Regional English - classroom
+            [Description] => <p><span style="font-size:12pt;">This session will cover the following tax topics:</span></p>
+<ol><li><span style="font-size:12pt;">The New Tax Cuts and Jobs Act Updates (TCJA) (3U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule A and Form 1040 (2U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule C (U)</span></li>
+<li><span style="font-size:12pt;">Serving Multicultural Clients (U)</span></li>
+</ol><p><span style="font-size:12pt;">The TCJA will cover the new business deduction for passthrough businesses, also known as Section 199A. Qualified business income will be discussed on how to determine who will qualify for the deduction. We will cover the new forms as well as how some of the new laws affect the multicultural client.</span></p>
+<p><span style="font-size:12pt;">Included with this live event is either one 20 Hour CTEC eBook or one AFSP eBook Course to earn the Record of Completion to be added to the IRS National Database List. Your hours for the AFSP Record of Completion which needs to be completed by December 31, 2018.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 131-2085
+            [ProductName] => Bay Area Regional en Espanol 9/27 - 2085
+            [ProductPrice] => 299
+            [ShortDescription] => Bay Area Regional en Espanol 9/27 - classroom
+            [Description] => <p><span style="font-size:12pt;">Esta sesión cubrirá los siguientes temas:</span></p>
+<ol><li><span style="font-size:12pt;">Las actualizaciones de la Ley de Recortes Tributarios y del Empleo (TCJA) (3U)</span></li>
+<li><span style="font-size:12pt;">El nuevo Anexo A y el Formulario 1040 )2U)</span></li>
+<li><span style="font-size:12pt;">El nuevo Anexo C (U)</span></li>
+<li><span style="font-size:12pt;">Sirviendo a clientes multiculturales (U)</span></li>
+</ol><p><span style="font-size:12pt;">La TCJA cubrirá la nueva deducción de negocio para las entidades comerciales que pasan por el 1040 del contribuyente, también conocida como 199-A. Se discutirá lo que es el ingreso de negocio calificado y la forma en que se determina quién podrá calificar para esta deducción. Se cubrirán los nuevos formularios, así como la forma en la que algunas de las nuevas leyes afectan a los clientes multiculturales.</span></p>
+<p><span style="font-size:12pt;">En este evento incluye un libro de texto electrónico o un curso electrónico de AFSP para que pueda recibir el Registro de Compleción para agregar su nombre a la lista de nombre del Banco de Datos del IRS. Las seis horas del Registro de Compleción del IRS se deben completar para el 31 de diciembre de 2018.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+bf_addIsProducts - Array
+(
+    [email] => arti.hikebranding@gmail.com
+    [domain] => 69.195.124.141%2F%7Esatvikso%2Fproject%2Fdemo
+    [isappid] => qn241
+    [isapikey] => c31ce6f980e4c9de594a39bb78fda91d
+    [plugin] => DoceboLabs
+    [addproduct] => Array
+        (
+            [Sku] => 133-2087
+            [ProductName] => Dallas, Texas Regional English - 2087
+            [ProductPrice] => 299
+            [ShortDescription] => Dallas, Texas Regional English - classroom
+            [Description] => <p><span style="font-size:12pt;">This session will cover the following tax topics:</span></p>
+<ol><li><span style="font-size:12pt;">The New Tax Cuts and Jobs Act Updates (TCJA) (3U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule A and Form 1040 (2U)</span></li>
+<li><span style="font-size:12pt;">The New Schedule C (U)</span></li>
+<li><span style="font-size:12pt;">Serving Multicultural Clients (U)</span></li>
+</ol><p><span style="font-size:12pt;"> </span><span style="font-size:12pt;">The TCJA will cover the new business deduction for passthrough businesses, also known as Section 199A. Qualified business income will be discussed on how to determine who will qualify for the deduction. We will cover the new forms as well as how some of the new laws affect the multicultural client.</span></p>
+<p><span style="font-size:12pt;">Included with this live event is either one 20 Hour CTEC eBook or one AFSP eBook Course to earn the Record of Completion to be added to the IRS National Database List. Your hours for the AFSP Record of Completion which needs to be completed by December 31, 2018.</span></p>
+        )
+
+    [bf_docebo_taxable] => 
+    [bf_docebo_CountryTaxable] => 
+    [bf_docebo_StateTaxable] => 
+    [bf_docebo_CityTaxable] => 
+    [tag] => 
+)
+
+Sync ended: 19-02-2019 05:58:17 UTC, (19-02-2019 05:58:17 )
+Sync started: 19-02-2019 06:05:23 UTC, (19-02-2019 06:05:23 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 05:58:17
+isTime: 19-02-19 00:58:17
+Sync ended: 19-02-2019 06:05:27 UTC, (19-02-2019 06:05:27 )
+Sync started: 19-02-2019 06:11:23 UTC, (19-02-2019 06:11:23 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:05:27
+isTime: 19-02-19 01:05:27
+Sync ended: 19-02-2019 06:11:23 UTC, (19-02-2019 06:11:23 )
+Sync started: 19-02-2019 06:22:44 UTC, (19-02-2019 06:22:44 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:11:23
+isTime: 19-02-19 01:11:23
+Sync ended: 19-02-2019 06:22:44 UTC, (19-02-2019 06:22:44 )
+Sync started: 19-02-2019 06:26:38 UTC, (19-02-2019 06:26:38 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:22:44
+isTime: 19-02-19 01:22:44
+Sync ended: 19-02-2019 06:26:38 UTC, (19-02-2019 06:26:38 )
+Sync started: 19-02-2019 06:35:21 UTC, (19-02-2019 06:35:21 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:26:38
+isTime: 19-02-19 01:26:38
+Sync ended: 19-02-2019 06:35:21 UTC, (19-02-2019 06:35:21 )
+Sync started: 19-02-2019 06:42:21 UTC, (19-02-2019 06:42:21 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:35:21
+isTime: 19-02-19 01:35:21
+Sync ended: 19-02-2019 06:42:21 UTC, (19-02-2019 06:42:21 )
+Sync started: 19-02-2019 06:54:17 UTC, (19-02-2019 06:54:17 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:42:21
+isTime: 19-02-19 01:42:21
+Sync ended: 19-02-2019 06:54:17 UTC, (19-02-2019 06:54:17 )
+Sync started: 19-02-2019 07:00:24 UTC, (19-02-2019 07:00:24 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 3a3ccb40632735bb6d2fdd98cfcde808f28219b4
+    [expires] => 1550559867
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 06:54:17
+isTime: 19-02-19 01:54:17
+Sync ended: 19-02-2019 07:00:24 UTC, (19-02-2019 07:00:24 )
+Sync started: 19-02-2019 07:07:24 UTC, (19-02-2019 07:07:24 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 6cbc4a0aa4459a2b490bc076608dffdf00f4027c
+    [expires] => 1550563511
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 07:00:24
+isTime: 19-02-19 02:00:24
+Sync ended: 19-02-2019 07:07:25 UTC, (19-02-2019 07:07:25 )
+Sync started: 19-02-2019 07:14:40 UTC, (19-02-2019 07:14:40 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 6cbc4a0aa4459a2b490bc076608dffdf00f4027c
+    [expires] => 1550563511
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 07:07:25
+isTime: 19-02-19 02:07:25
+Sync ended: 19-02-2019 07:14:40 UTC, (19-02-2019 07:14:40 )
+Sync started: 19-02-2019 07:22:21 UTC, (19-02-2019 07:22:21 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 6cbc4a0aa4459a2b490bc076608dffdf00f4027c
+    [expires] => 1550563511
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 07:14:40
+isTime: 19-02-19 02:14:40
+Sync ended: 19-02-2019 07:22:21 UTC, (19-02-2019 07:22:21 )
+Sync started: 19-02-2019 08:19:32 UTC, (19-02-2019 08:19:32 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 07:22:21
+isTime: 19-02-19 02:22:21
+Sync ended: 19-02-2019 08:19:35 UTC, (19-02-2019 08:19:35 )
+Sync started: 19-02-2019 08:26:45 UTC, (19-02-2019 08:26:45 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:19:35
+isTime: 19-02-19 03:19:35
+Sync ended: 19-02-2019 08:26:45 UTC, (19-02-2019 08:26:45 )
+Sync started: 19-02-2019 08:34:11 UTC, (19-02-2019 08:34:11 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:26:45
+isTime: 19-02-19 03:26:45
+Sync ended: 19-02-2019 08:34:11 UTC, (19-02-2019 08:34:11 )
+Sync started: 19-02-2019 08:42:34 UTC, (19-02-2019 08:42:34 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:34:11
+isTime: 19-02-19 03:34:11
+Sync ended: 19-02-2019 08:42:34 UTC, (19-02-2019 08:42:34 )
+Sync started: 19-02-2019 08:55:42 UTC, (19-02-2019 08:55:42 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:42:34
+isTime: 19-02-19 03:42:34
+Sync ended: 19-02-2019 08:55:42 UTC, (19-02-2019 08:55:42 )
+Sync started: 19-02-2019 08:58:50 UTC, (19-02-2019 08:58:50 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => a54d9fc73107fbc3ed45764258fbd8d20288b68d
+    [expires] => 1550567914
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:55:42
+isTime: 19-02-19 03:55:42
+Sync ended: 19-02-2019 08:58:50 UTC, (19-02-2019 08:58:50 )
+Sync started: 19-02-2019 09:25:15 UTC, (19-02-2019 09:25:15 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 08:58:50
+isTime: 19-02-19 03:58:50
+Sync ended: 19-02-2019 09:25:20 UTC, (19-02-2019 09:25:20 )
+Sync started: 19-02-2019 09:31:02 UTC, (19-02-2019 09:31:02 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 09:25:20
+isTime: 19-02-19 04:25:20
+Sync ended: 19-02-2019 09:31:03 UTC, (19-02-2019 09:31:03 )
+Sync started: 19-02-2019 09:38:44 UTC, (19-02-2019 09:38:44 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 09:31:02
+isTime: 19-02-19 04:31:02
+Sync ended: 19-02-2019 09:38:44 UTC, (19-02-2019 09:38:44 )
+Sync started: 19-02-2019 09:46:23 UTC, (19-02-2019 09:46:23 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 09:38:44
+isTime: 19-02-19 04:38:44
+Sync ended: 19-02-2019 09:46:23 UTC, (19-02-2019 09:46:23 )
+Sync started: 19-02-2019 09:55:21 UTC, (19-02-2019 09:55:21 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 09:46:23
+isTime: 19-02-19 04:46:23
+Sync ended: 19-02-2019 09:55:21 UTC, (19-02-2019 09:55:21 )
+Sync started: 19-02-2019 10:11:44 UTC, (19-02-2019 10:11:44 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 09:55:21
+isTime: 19-02-19 04:55:21
+Sync ended: 19-02-2019 10:11:44 UTC, (19-02-2019 10:11:44 )
+Sync started: 19-02-2019 10:18:36 UTC, (19-02-2019 10:18:36 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 45127f9cff8ec4bcaf6cfa7e77176775acfe04b8
+    [expires] => 1550571860
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:11:44
+isTime: 19-02-19 05:11:44
+Sync ended: 19-02-2019 10:18:36 UTC, (19-02-2019 10:18:36 )
+Sync started: 19-02-2019 10:27:14 UTC, (19-02-2019 10:27:14 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:18:36
+isTime: 19-02-19 05:18:36
+Sync ended: 19-02-2019 10:27:15 UTC, (19-02-2019 10:27:15 )
+Sync started: 19-02-2019 10:34:17 UTC, (19-02-2019 10:34:17 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:27:15
+isTime: 19-02-19 05:27:15
+Sync ended: 19-02-2019 10:34:17 UTC, (19-02-2019 10:34:17 )
+Sync started: 19-02-2019 10:44:14 UTC, (19-02-2019 10:44:14 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:34:17
+isTime: 19-02-19 05:34:17
+Sync ended: 19-02-2019 10:44:14 UTC, (19-02-2019 10:44:14 )
+Sync started: 19-02-2019 10:50:15 UTC, (19-02-2019 10:50:15 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:44:14
+isTime: 19-02-19 05:44:14
+Sync ended: 19-02-2019 10:50:15 UTC, (19-02-2019 10:50:15 )
+Sync started: 19-02-2019 10:50:18 UTC, (19-02-2019 10:50:18 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:44:14
+isTime: 19-02-19 05:44:14
+Sync ended: 19-02-2019 10:50:19 UTC, (19-02-2019 10:50:19 )
+Sync started: 19-02-2019 11:00:18 UTC, (19-02-2019 11:00:18 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 10:50:18
+isTime: 19-02-19 05:50:18
+Sync ended: 19-02-2019 11:00:19 UTC, (19-02-2019 11:00:19 )
+Sync started: 19-02-2019 11:07:55 UTC, (19-02-2019 11:07:55 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 49b796574ffa6c47163db5e2fdaeebf170de428d
+    [expires] => 1550575575
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:00:19
+isTime: 19-02-19 06:00:19
+Sync ended: 19-02-2019 11:07:55 UTC, (19-02-2019 11:07:55 )
+Sync started: 19-02-2019 11:33:44 UTC, (19-02-2019 11:33:44 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:07:55
+isTime: 19-02-19 06:07:55
+Sync ended: 19-02-2019 11:33:45 UTC, (19-02-2019 11:33:45 )
+Sync started: 19-02-2019 11:40:18 UTC, (19-02-2019 11:40:18 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:33:45
+isTime: 19-02-19 06:33:45
+Sync ended: 19-02-2019 11:40:18 UTC, (19-02-2019 11:40:18 )
+Sync started: 19-02-2019 11:48:16 UTC, (19-02-2019 11:48:16 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:40:18
+isTime: 19-02-19 06:40:18
+Sync ended: 19-02-2019 11:48:16 UTC, (19-02-2019 11:48:16 )
+Sync started: 19-02-2019 11:56:46 UTC, (19-02-2019 11:56:46 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:48:16
+isTime: 19-02-19 06:48:16
+Sync ended: 19-02-2019 11:56:46 UTC, (19-02-2019 11:56:46 )
+Sync started: 19-02-2019 12:04:07 UTC, (19-02-2019 12:04:07 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 11:56:46
+isTime: 19-02-19 06:56:46
+Sync ended: 19-02-2019 12:04:07 UTC, (19-02-2019 12:04:07 )
+Sync started: 19-02-2019 12:11:59 UTC, (19-02-2019 12:11:59 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 12:04:07
+isTime: 19-02-19 07:04:07
+Sync ended: 19-02-2019 12:11:59 UTC, (19-02-2019 12:11:59 )
+Sync started: 19-02-2019 12:23:20 UTC, (19-02-2019 12:23:20 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 12:11:59
+isTime: 19-02-19 07:11:59
+Sync ended: 19-02-2019 12:23:20 UTC, (19-02-2019 12:23:20 )
+Sync started: 19-02-2019 12:28:47 UTC, (19-02-2019 12:28:47 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5aad3e8a1dff318dec11b76a39326ca484eddbb8
+    [expires] => 1550579565
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 12:23:20
+isTime: 19-02-19 07:23:20
+Sync ended: 19-02-2019 12:28:47 UTC, (19-02-2019 12:28:47 )
+Sync started: 19-02-2019 12:36:55 UTC, (19-02-2019 12:36:55 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => ef12630b21e8e7100b5708caa73952f9b1be96bf
+    [expires] => 1550583239
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 12:28:47
+isTime: 19-02-19 07:28:47
+Sync ended: 19-02-2019 12:36:55 UTC, (19-02-2019 12:36:55 )
+Sync started: 27-02-2019 09:42:59 UTC, (27-02-2019 09:42:59 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 19-02-2019 12:36:55
+isTime: 19-02-19 07:36:55
+Sync ended: 27-02-2019 09:42:59 UTC, (27-02-2019 09:42:59 )
+Sync started: 27-02-2019 09:48:12 UTC, (27-02-2019 09:48:12 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 09:42:59
+isTime: 27-02-19 04:42:59
+Sync ended: 27-02-2019 09:48:12 UTC, (27-02-2019 09:48:12 )
+Sync started: 27-02-2019 09:56:25 UTC, (27-02-2019 09:56:25 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 09:48:12
+isTime: 27-02-19 04:48:12
+Sync ended: 27-02-2019 09:56:25 UTC, (27-02-2019 09:56:25 )
+Sync started: 27-02-2019 10:03:45 UTC, (27-02-2019 10:03:45 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 09:56:25
+isTime: 27-02-19 04:56:25
+Sync ended: 27-02-2019 10:03:45 UTC, (27-02-2019 10:03:45 )
+Sync started: 27-02-2019 10:11:52 UTC, (27-02-2019 10:11:52 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:03:45
+isTime: 27-02-19 05:03:45
+Sync ended: 27-02-2019 10:11:52 UTC, (27-02-2019 10:11:52 )
+Sync started: 27-02-2019 10:21:09 UTC, (27-02-2019 10:21:09 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:11:52
+isTime: 27-02-19 05:11:52
+Sync ended: 27-02-2019 10:21:09 UTC, (27-02-2019 10:21:09 )
+Sync started: 27-02-2019 10:36:57 UTC, (27-02-2019 10:36:57 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:21:09
+isTime: 27-02-19 05:21:09
+Sync ended: 27-02-2019 10:36:57 UTC, (27-02-2019 10:36:57 )
+Sync started: 27-02-2019 10:36:58 UTC, (27-02-2019 10:36:58 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 8707b860584750cdd1de98738aa07d3462a1f6e0
+    [expires] => 1551264049
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:21:09
+isTime: 27-02-19 05:21:09
+Sync ended: 27-02-2019 10:36:58 UTC, (27-02-2019 10:36:58 )
+Sync started: 27-02-2019 10:45:24 UTC, (27-02-2019 10:45:24 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:36:58
+isTime: 27-02-19 05:36:58
+Sync ended: 27-02-2019 10:45:24 UTC, (27-02-2019 10:45:24 )
+Sync started: 27-02-2019 10:51:52 UTC, (27-02-2019 10:51:52 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:45:24
+isTime: 27-02-19 05:45:24
+Sync ended: 27-02-2019 10:51:52 UTC, (27-02-2019 10:51:52 )
+Sync started: 27-02-2019 10:59:53 UTC, (27-02-2019 10:59:53 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:51:52
+isTime: 27-02-19 05:51:52
+Sync ended: 27-02-2019 10:59:53 UTC, (27-02-2019 10:59:53 )
+Sync started: 27-02-2019 11:12:06 UTC, (27-02-2019 11:12:06 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 10:59:53
+isTime: 27-02-19 05:59:53
+Sync ended: 27-02-2019 11:12:06 UTC, (27-02-2019 11:12:06 )
+Sync started: 27-02-2019 11:16:03 UTC, (27-02-2019 11:16:03 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 11:12:06
+isTime: 27-02-19 06:12:06
+Sync ended: 27-02-2019 11:16:03 UTC, (27-02-2019 11:16:03 )
+Sync started: 27-02-2019 11:25:08 UTC, (27-02-2019 11:25:08 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => c54bcd6e65220a7ae3fb07d84c18eefeb45a1264
+    [expires] => 1551267715
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 11:16:03
+isTime: 27-02-19 06:16:03
+Sync ended: 27-02-2019 11:25:08 UTC, (27-02-2019 11:25:08 )
+Sync started: 27-02-2019 11:45:07 UTC, (27-02-2019 11:45:07 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5ab7c128fbeba83dd1f6c00d059d6f90cdae37f0
+    [expires] => 1551271320
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 11:25:08
+isTime: 27-02-19 06:25:08
+Sync ended: 27-02-2019 11:45:07 UTC, (27-02-2019 11:45:07 )
+Sync started: 27-02-2019 11:51:05 UTC, (27-02-2019 11:51:05 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5ab7c128fbeba83dd1f6c00d059d6f90cdae37f0
+    [expires] => 1551271320
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 11:45:07
+isTime: 27-02-19 06:45:07
+Sync ended: 27-02-2019 11:51:05 UTC, (27-02-2019 11:51:05 )
+Sync started: 27-02-2019 12:20:40 UTC, (27-02-2019 12:20:40 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5ab7c128fbeba83dd1f6c00d059d6f90cdae37f0
+    [expires] => 1551271320
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 11:51:05
+isTime: 27-02-19 06:51:05
+Sync ended: 27-02-2019 12:20:40 UTC, (27-02-2019 12:20:40 )
+Sync started: 27-02-2019 12:28:39 UTC, (27-02-2019 12:28:39 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5ab7c128fbeba83dd1f6c00d059d6f90cdae37f0
+    [expires] => 1551271320
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 12:20:40
+isTime: 27-02-19 07:20:40
+Sync ended: 27-02-2019 12:28:39 UTC, (27-02-2019 12:28:39 )
+Sync started: 27-02-2019 12:40:18 UTC, (27-02-2019 12:40:18 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5ab7c128fbeba83dd1f6c00d059d6f90cdae37f0
+    [expires] => 1551271320
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 12:28:39
+isTime: 27-02-19 07:28:39
+Sync ended: 27-02-2019 12:40:18 UTC, (27-02-2019 12:40:18 )
+Sync started: 27-02-2019 12:46:22 UTC, (27-02-2019 12:46:22 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 12:40:18
+isTime: 27-02-19 07:40:18
+Sync ended: 27-02-2019 12:46:22 UTC, (27-02-2019 12:46:22 )
+Sync started: 27-02-2019 12:52:23 UTC, (27-02-2019 12:52:23 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 12:46:22
+isTime: 27-02-19 07:46:22
+Sync ended: 27-02-2019 12:52:23 UTC, (27-02-2019 12:52:23 )
+Sync started: 27-02-2019 13:01:44 UTC, (27-02-2019 13:01:44 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 12:52:23
+isTime: 27-02-19 07:52:23
+Sync ended: 27-02-2019 13:01:44 UTC, (27-02-2019 13:01:44 )
+Sync started: 27-02-2019 13:07:43 UTC, (27-02-2019 13:07:43 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 13:01:44
+isTime: 27-02-19 08:01:44
+Sync ended: 27-02-2019 13:07:43 UTC, (27-02-2019 13:07:43 )
+Sync started: 27-02-2019 13:21:58 UTC, (27-02-2019 13:21:58 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 13:07:43
+isTime: 27-02-19 08:07:43
+Sync ended: 27-02-2019 13:21:58 UTC, (27-02-2019 13:21:58 )
+Sync started: 27-02-2019 13:23:56 UTC, (27-02-2019 13:23:56 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 13:21:58
+isTime: 27-02-19 08:21:58
+Sync ended: 27-02-2019 13:23:56 UTC, (27-02-2019 13:23:56 )
+Sync started: 27-02-2019 13:33:49 UTC, (27-02-2019 13:33:49 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 7f010129ffadd1d92df51d1687f3671c198f2796
+    [expires] => 1551274882
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 13:23:56
+isTime: 27-02-19 08:23:56
+Sync ended: 27-02-2019 13:33:49 UTC, (27-02-2019 13:33:49 )
+Sync started: 07-03-2019 10:04:28 UTC, (07-03-2019 10:04:28 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => cb03bc33d71cbd4f215490264b583649d6289d7f
+    [expires] => 1551956502
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 27-02-2019 13:33:49
+isTime: 27-02-19 08:33:49
+Sync ended: 07-03-2019 10:04:28 UTC, (07-03-2019 10:04:28 )
+Sync started: 07-03-2019 10:13:28 UTC, (07-03-2019 10:13:28 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => cb03bc33d71cbd4f215490264b583649d6289d7f
+    [expires] => 1551956502
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 10:04:28
+isTime: 07-03-19 05:04:28
+Sync ended: 07-03-2019 10:13:28 UTC, (07-03-2019 10:13:28 )
+Sync started: 07-03-2019 11:12:20 UTC, (07-03-2019 11:12:20 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => e442f5a8b9b56814e7736cd2a538bcd7976a6133
+    [expires] => 1551960683
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 10:13:28
+isTime: 07-03-19 05:13:28
+Sync ended: 07-03-2019 11:12:23 UTC, (07-03-2019 11:12:23 )
+Sync started: 07-03-2019 11:29:35 UTC, (07-03-2019 11:29:35 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => e442f5a8b9b56814e7736cd2a538bcd7976a6133
+    [expires] => 1551960683
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 11:12:23
+isTime: 07-03-19 06:12:23
+Sync ended: 07-03-2019 11:29:35 UTC, (07-03-2019 11:29:35 )
+Sync started: 07-03-2019 11:33:35 UTC, (07-03-2019 11:33:35 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => e442f5a8b9b56814e7736cd2a538bcd7976a6133
+    [expires] => 1551960683
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 11:29:35
+isTime: 07-03-19 06:29:35
+Sync ended: 07-03-2019 11:33:35 UTC, (07-03-2019 11:33:35 )
+Sync started: 07-03-2019 12:04:54 UTC, (07-03-2019 12:04:54 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => e442f5a8b9b56814e7736cd2a538bcd7976a6133
+    [expires] => 1551960683
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 11:33:35
+isTime: 07-03-19 06:33:35
+Sync ended: 07-03-2019 12:04:54 UTC, (07-03-2019 12:04:54 )
+Sync started: 07-03-2019 12:13:03 UTC, (07-03-2019 12:13:03 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5f7dece85a427c31781232201f9b6d44fb45f3d6
+    [expires] => 1551964324
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 12:04:54
+isTime: 07-03-19 07:04:54
+Sync ended: 07-03-2019 12:13:04 UTC, (07-03-2019 12:13:04 )
+Sync started: 07-03-2019 12:21:05 UTC, (07-03-2019 12:21:05 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5f7dece85a427c31781232201f9b6d44fb45f3d6
+    [expires] => 1551964324
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 12:13:04
+isTime: 07-03-19 07:13:04
+Sync ended: 07-03-2019 12:21:05 UTC, (07-03-2019 12:21:05 )
+Sync started: 07-03-2019 12:27:55 UTC, (07-03-2019 12:27:55 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5f7dece85a427c31781232201f9b6d44fb45f3d6
+    [expires] => 1551964324
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 12:21:05
+isTime: 07-03-19 07:21:05
+Sync ended: 07-03-2019 12:27:55 UTC, (07-03-2019 12:27:55 )
+Sync started: 07-03-2019 12:36:55 UTC, (07-03-2019 12:36:55 )
+bfEnableCron: 1
+access_token: Array
+(
+    [accessToken] => 5f7dece85a427c31781232201f9b6d44fb45f3d6
+    [expires] => 1551964324
+)
+
+syncfields: Array
+(
+    [id_user] => _DoceboID
+    [userid] => _Username0
+    [firstname] => FirstName
+    [lastname] => LastName
+    [password] => _Password0
+    [email] => Email
+    [PTIN ( if none enter N/A)] => _PTIN
+)
+
+subdomain: latinotaxpro
+tag_selected: 3064
+lastcoursecronrun: 07-03-2019 12:27:55
+isTime: 07-03-19 07:27:55
+Sync ended: 07-03-2019 12:36:55 UTC, (07-03-2019 12:36:55 )

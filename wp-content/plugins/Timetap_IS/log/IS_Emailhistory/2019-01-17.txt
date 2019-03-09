@@ -1,0 +1,1210 @@
+
+
+****************** Email History Cron Start*******
+Date: 2019-01-17 09:27:00
+Total emails: 100049
+Last updated emails: 10
+
+ID: 32
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 34
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 36
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 38
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 24
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 40
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Account Created
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Your Infusionsoft Account Info &nbsp; Hi Olga! Here's your Infusionsoft account info. Your Infusionsoft ID: olga@revereclinics.com &nbsp; Your App URL: https://xd295.infusionsoft.com &nbsp; Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 26
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 28
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Account Created
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Your Infusionsoft Account Info &nbsp; Hi Esha! Here's your Infusionsoft account info. Your Infusionsoft ID: info@revereclinics.com &nbsp; Your App URL: https://xd295.infusionsoft.com &nbsp; Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+****************** Email History Cron End *************
+
+
+
+****************** Email History Cron Start*******
+Date: 2019-01-17 09:29:41
+Total emails: 100049
+Last updated emails: 18
+
+ID: 48
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Web Form Code
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Sorry March, I slightly updated the form, hope you haven't done it yet...Cheers, OlgaWeb Form Installation Instructions:The Infusionsoft " Inquiry Form " web form needs to be placed on a website. You can do this using the attached Javascript Snippet or HTML Code. It is recommended that you use the Javascript Snippet as it will be easier to update the form in the future.
+                    [recipients] => Array
+                        (
+                            [0] => olga@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => marc@emotio.co.uk
+                )
+
+        )
+
+)
+
+
+
+ID: 50
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Web Form Code
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Hi Dawn, I enclose the online inquiry form instructions for the Contact Us page.Regards, OlgaWeb Form Installation Instructions:The Infusionsoft " Inquiry Form " web form needs to be placed on a website. You can do this using the attached Javascript Snippet or HTML Code. It is recommended that you use the Javascript Snippet as it will be easier to update the form in the future.
+                    [recipients] => Array
+                        (
+                            [0] => olga@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => dawn@emotio.co.uk
+                )
+
+        )
+
+)
+
+
+
+ID: 52
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 3:00 AM. Assigned To: Esha Shah Contact: Jessica Phone: 07719235867 Fax: Email: jessicaisanelf@gmail.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 38
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => You've been invited to Infusionsoft - Set up your account to get started!
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | You've Been Invited To Infusionsoft &nbsp; You've been invited to Infusionsoft - Set up your account to get started! Sach&nbsp;has invited you to Infusionsoft. Create Your Account Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => sach@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 54
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 3:00 AM. Assigned To: Esha Shah Contact: Jessica Phone: 07719235867 Fax: Email: jessicaisanelf@gmail.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 40
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Account Created
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Your Infusionsoft Account Info &nbsp; Hi Olga! Here's your Infusionsoft account info. Your Infusionsoft ID: olga@revereclinics.com &nbsp; Your App URL: https://xd295.infusionsoft.com &nbsp; Have Questions? Please let us know if you have questions or if we can help in any way. Thank you, The Infusionsoft Team1-866-800-0004 &nbsp; 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => olga@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 56
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 6:12 AM. Assigned To: Esha Shah Contact: Salwa Ahmed Phone: 07851958933 Fax: Email: salwaahmed@hotmail.co.uk Action Title: Appointment form submitted Action Notes: Appointment form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 42
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Infusionsoft Web Form Code
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | Hi Marc, the inquiry form for Contact Us page on CoolSculptme website is ready. Please find the instructions enclosed in this email. Kindly let me know if everything is ok. Cheers, OlgaWeb Form Installation Instructions:The Infusionsoft " Inquiry Form " web form needs to be placed on a website. You can do this using the attached Javascript Snippet or HTML Code. It is recommended that you use the Javascript Snippet as it will be easier to update the form in the future.
+                    [recipients] => Array
+                        (
+                            [0] => olga@revereclinics.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => marc@emotio.co.uk
+                )
+
+        )
+
+)
+
+
+
+ID: 44
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Notification: A CoolSculpting inquiry form was filled out at coolsculptme.com 
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | A web form (Inquiry Form) was filled out at: https://xd295.infusionsoft.com/app/form/test/5392daf433d375af9f855cedbc3ef101?inf_contact_key=1f9d3a0b18bddcea960b4b1dadce8d19186d8cfe6523eebf9e4dc17f7d0d7168 The following information was provided: First Name Olga Last Name Andreyeva Phone 0192 383 40 20 Email olga@revereclinics.com Inquiry test test test &nbsp; IP Address 188.66.83.126 Referring Referral Partner Click here to view this Contact's record. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 46
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Notification: A CoolSculpting inquiry form was filled out at coolsculptme.com 
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | A web form (Inquiry Form) was filled out at: https://xd295.infusionsoft.com/app/form/test/5392daf433d375af9f855cedbc3ef101?inf_contact_key=8f6ed42d5af0403a4cd19560c8e16a186511643fced660eac244d3ffcc11046e The following information was provided: First Name Olga Last Name Andreyeva Phone 0192 383 40 20 Email olga@revereclinics.com Inquiry more test &nbsp; IP Address 188.66.83.126 Referring Referral Partner Click here to view this Contact's record. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+****************** Email History Cron End *************
+
+
+
+****************** Email History Cron Start*******
+Date: 2019-01-17 09:44:45
+Total emails: 100049
+Last updated emails: 28
+
+ID: 64
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:26 AM. Assigned To: Esha Shah Contact: Hang Pham Phone: (234) 543-5677 Fax: Email: annangoc108@gmail.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 66
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:26 AM. Assigned To: Esha Shah Contact: Hang Pham Phone: (234) 543-5677 Fax: Email: annangoc108@gmail.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 68
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:40 AM. Assigned To: Esha Shah Contact: Anood Phone: 07951 671765 Fax: Email: saa2029@my.londonmet.ac.uk Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 70
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:40 AM. Assigned To: Esha Shah Contact: Anood Phone: 07951 671765 Fax: Email: saa2029@my.londonmet.ac.uk Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 72
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 3:00 AM. Assigned To: Esha Shah Contact: Safeena Hussain Phone: 07904 087 320 Fax: Email: safeena77@aol.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 58
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 6:12 AM. Assigned To: Esha Shah Contact: Salwa Ahmed Phone: 07851958933 Fax: Email: salwaahmed@hotmail.co.uk Action Title: Appointment form submitted Action Notes: Appointment form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 74
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 3:00 AM. Assigned To: Esha Shah Contact: Safeena Hussain Phone: 07904 087 320 Fax: Email: safeena77@aol.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 60
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:20 AM. Assigned To: Esha Shah Contact: Wanmengyu Chen Phone: 07840035651 Fax: Email: chenwanmengyu@gmail.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 76
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 3:00 AM. Assigned To: Esha Shah Contact: Katie Wright Phone: 07889192733 Fax: Email: katiewright_@hotmail.com Action Title: Appointment form submitted Action Notes: Appointment form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 62
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Tuesday, May 17, 2016 9:20 AM. Assigned To: Esha Shah Contact: Wanmengyu Chen Phone: 07840035651 Fax: Email: chenwanmengyu@gmail.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 17/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+****************** Email History Cron End *************
+
+
+
+****************** Email History Cron Start*******
+Date: 2019-01-17 10:01:27
+Total emails: 100049
+Last updated emails: 38
+
+ID: 80
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 6:26 AM. Assigned To: Esha Shah Contact: Di LYU Phone: 07548064417 Fax: Email: lvxiaoni1111@163.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 96
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 10:12 AM. Assigned To: Esha Shah Contact: Qiwen Wen Phone: 07563045953 Fax: Email: darlenewen@126.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 82
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 6:26 AM. Assigned To: Esha Shah Contact: Di LYU Phone: 07548064417 Fax: Email: lvxiaoni1111@163.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 84
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 6:59 AM. Assigned To: Esha Shah Contact: Gavin Burnell Phone: 07866423606 Fax: Email: gavin.burnell@beaufortsecurities.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 86
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 6:59 AM. Assigned To: Esha Shah Contact: Gavin Burnell Phone: 07866423606 Fax: Email: gavin.burnell@beaufortsecurities.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 88
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 8:26 AM. Assigned To: Esha Shah Contact: Sabrina Adams Phone: 07947128724 Fax: Email: sabsadams@hotmail.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 90
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 8:26 AM. Assigned To: Esha Shah Contact: Sabrina Adams Phone: 07947128724 Fax: Email: sabsadams@hotmail.com Action Title: Treatment Enquiry Form submitted Action Notes: Treatment Enquiry Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 92
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 8:43 AM. Assigned To: Esha Shah Contact: Qiwen Wen Phone: 07563045953 Fax: Email: darlenewen@126.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => info@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 78
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 3:00 AM. Assigned To: Esha Shah Contact: Katie Wright Phone: 07889192733 Fax: Email: katiewright_@hotmail.com Action Title: Appointment form submitted Action Notes: Appointment form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+
+ID: 94
+Array
+(
+    [conversation] => Array
+        (
+            [subject] => Task Notifier is notifying you of a Task
+            [category] => support
+            [tag_list] => 
+            [message] => Array
+                (
+                    [body] => Infusionsoft Conversation | TASK NOTIFICATION Task Notifier updated/added a Task on Wednesday, May 18, 2016 8:43 AM. Assigned To: Esha Shah Contact: Qiwen Wen Phone: 07563045953 Fax: Email: darlenewen@126.com Action Title: Contact Us Form submitted Action Notes: Contact Us Form submitted Notification Action Due Date: 18/5/2016 Please do not reply to this email. 
+                    [recipients] => Array
+                        (
+                            [0] => noreply@infusionsoft.com
+                        )
+
+                    [suppress_notification] => 1
+                )
+
+            [user] => Array
+                (
+                    [name] => 
+                    [email] => sach@revereclinics.com
+                )
+
+        )
+
+)
+
+
+****************** Email History Cron End *************
+

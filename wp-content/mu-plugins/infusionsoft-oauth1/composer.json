@@ -1,0 +1,15 @@
+{
+    "name": "sitecrafting/infusioncrafting",
+    "description": "Simple, lightweight InfusionSoft API integration for WordPress",
+    "require": {
+        "infusionsoft/php-sdk": "1.4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Coby Tamayo",
+            "email": "ctamayo@sitecrafting.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
